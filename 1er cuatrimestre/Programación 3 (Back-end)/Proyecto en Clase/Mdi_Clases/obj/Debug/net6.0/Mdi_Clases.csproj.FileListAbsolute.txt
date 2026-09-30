@@ -1,0 +1,23 @@
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\bin\Debug\net6.0\Mdi_Clases.deps.json
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\bin\Debug\net6.0\Mdi_Clases.dll
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\bin\Debug\net6.0\Mdi_Clases.pdb
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\Mdi_Clases.csproj.AssemblyReference.cache
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\Mdi_Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\Mdi_Clases.AssemblyInfoInputs.cache
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\Mdi_Clases.AssemblyInfo.cs
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\Mdi_Clases.csproj.CoreCompileInputs.cache
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\Mdi_Clases.dll
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\refint\Mdi_Clases.dll
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\Mdi_Clases.pdb
+C:\Users\Ale Tassoni\Desktop\C#\Mdi_Clases\obj\Debug\net6.0\ref\Mdi_Clases.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\MDI_Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\MDI_Clases.AssemblyInfoInputs.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\MDI_Clases.AssemblyInfo.cs
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\MDI_Clases.csproj.CoreCompileInputs.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\MDI_Clases.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\refint\MDI_Clases.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\MDI_Clases.pdb
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\bin\Debug\net6.0\Mdi_Clases.deps.json
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\bin\Debug\net6.0\Mdi_Clases.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\bin\Debug\net6.0\Mdi_Clases.pdb
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\net6.0\ref\Mdi_Clases.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H77mcDNDY30=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saidn\\Desktop\\Proyecto en Clase\\Mdi_Clases\\Mdi_Clases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saidn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\saidn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\saidn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

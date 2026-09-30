@@ -1,0 +1,31 @@
+ID_Envío,Fecha_Envío,ID_Vehículo,Ciudad_Origen,Ciudad_Destino,Distancia_Km,Peso_Kg,Tipo_Producto,Estado_Paquete_Llegada,Estado_Entrega,Tiempo_Entrega_Horas,Costo_Total_ARS
+ENV000001,2023-12-11,VEH050,Buenos Aires,La Plata,60.3,4.95,Textiles,Bueno,Entregado,4.2,2277.17
+ENV000002,2023-07-05,VEH029,Neuquén,Buenos Aires,1121.3,2.78,Otros,Bueno,Entregado,38.7,39074.55
+ENV000003,2024-02-13,VEH006,Salta,Buenos Aires,1406.1,7.67,Otros,Bueno,Perdido,30.2,84213.16
+ENV000004,2023-07-06,VEH034,Salta,Buenos Aires,1375.5,23.17,Textiles,Bueno,Entregado,32.5,49848.9
+ENV000005,2024-05-26,VEH028,Neuquén,Tucumán,1460.9,2.4,Textiles,Bueno,Entregado,29.6,61415.63
+ENV000006,2024-04-04,VEH057,La Plata,Salta,1452.8,4.39,Alimentos,Bueno,Entregado,26.7,44606.73
+ENV000007,2023-12-07,VEH026,Mendoza,Salta,1085.4,2.94,Electrónica,Bueno,Entregado,24.3,52040.88
+ENV000008,2024-03-12,VEH045,Neuquén,Córdoba,933.0,13.72,Textiles,Bueno,Entregado,22.9,53278.55
+ENV000009,2023-11-18,VEH067,Córdoba,Mendoza,612.2,7.46,Electrónica,Bueno,Entregado,13.1,29300.32
+ENV000011,2024-01-01,VEH005,Tucumán,Córdoba,532.3,14.44,Electrónica,Bueno,Entregado,16.7,23346.06
+ENV000012,2023-08-24,VEH063,Buenos Aires,Mendoza,1055.2,6.12,Muebles,Bueno,Entregado,25.1,47409.16
+ENV000013,2024-03-25,VEH030,Neuquén,Tucumán,1376.2,25.05,Alimentos,Bueno,Entregado,38.4,152103.91
+ENV000014,2024-05-13,VEH016,Rosario,Neuquén,1066.8,21.85,Otros,Bueno,Entregado,27.7,122406.98
+ENV000015,2023-08-15,VEH021,Salta,La Plata,1507.2,3.14,Alimentos,Bueno,Entregado,32.6,68493.49
+ENV000016,2023-08-15,VEH047,Salta,Córdoba,742.5,14.89,Alimentos,Bueno,Entregado,28.1,34265.64
+ENV000074,2024-05-18,VEH059,Tucumán,Rosario,1243.5,3.28,Electrónica,Dañado,Entregado,25.8,48430.21
+ENV000420,2023-08-30,VEH048,Mendoza,Rosario,710.7,4.87,Textiles,Bueno,Entregado,16.1,32428.46
+ENV000477,2024-01-09,VEH044,Córdoba,Neuquén,948.8,3.51,Electrónica,Bueno,Entregado,23.0,97737.11
+ENV000963,2023-07-21,VEH003,Salta,Buenos Aires,1427.1,4.05,Muebles,Bueno,Devuelto,38.1,114051.36
+ENV001048,2023-08-24,VEH058,Rosario,La Plata,344.7,3.09,Otros,Bueno,Entregado,8.4,20071.84
+ENV001842,2023-06-18,VEH062,Salta,Córdoba,843.6,3.83,Alimentos,Bueno,Entregado,24.4,47213.89
+ENV003503,2024-04-19,VEH047,Salta,Mendoza,963.1,21.11,Muebles,Bueno,Entregado,26.2,48220.01
+ENV004118,2023-09-19,VEH054,Córdoba,Rosario,441.0,18.46,Otros,Bueno,Entregado,11.3,18556.17
+ENV005615,2023-08-07,VEH005,Mendoza,La Plata,1082.5,18.2,Alimentos,Bueno,Entregado,28.4,45015.98
+ENV006367,2023-12-23,VEH079,Mendoza,Salta,986.5,17.46,Alimentos,Bueno,Entregado,17.2,38995.44
+ENV008368,2023-07-05,VEH048,Salta,Rosario,1199.7,2.79,Electrónica,Bueno,Entregado,26.1,54702.32
+ENV008405,2024-03-28,VEH029,Neuquén,Córdoba,878.8,23.66,Alimentos,Bueno,Entregado,18.6,37137.88
+ENV008941,2024-05-06,VEH076,Tucumán,Salta,306.6,20.78,Otros,Bueno,Entregado,10.1,19443.34
+ENV010316,2023-08-11,VEH042,Córdoba,Buenos Aires,728.4,19.48,Electrónica,Dañado,Devuelto,16.4,71071.92
+ENV010401,2024-02-29,VEH034,Buenos Aires,La Plata,58.0,29.46,Textiles,Bueno,Entregado,4.8,2363.2

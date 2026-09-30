@@ -1,0 +1,59 @@
+@model TPIntegradorBack.Models.Usuario
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar Usuario</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UsuarioId" />
+            <div class="mb-3">
+                <label asp-for="NombreUsuario" class="form-label">Nombre de Usuario</label>
+                <input asp-for="NombreUsuario" class="form-control" />
+                <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Contrasenia" class="form-label">Contraseña</label>
+                <input asp-for="Contrasenia" class="form-control" />
+                <span asp-validation-for="Contrasenia" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Nombre" class="form-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Apellido" class="form-label"></label>
+                <input asp-for="Apellido" class="form-control" />
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+
+@*             <div class="mb-3">
+                <label asp-for="Pedidos" class="form-label"></label>
+                <input asp-for="Pedidos" class="form-control" />
+                <span asp-validation-for="Pedidos" class="text-danger"></span>
+            </div> *@
+            <div class="mb-3 form-check">
+                <input asp-for="Role" class="form-check-input" />
+                <label asp-for="Role" class="form-check-label">Hacer Administrador</label>
+                <span asp-validation-for="Role" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-secondary" asp-action="Index">Volver</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ej1.css">
+</head>
+<body>
+    <div class="tarjeta" id="destacada">
+        <h2 class="titulo">Oferta Especial</h2>
+        <p class="precio">$1.999</p>
+    </div>
+    
+    <style>
+        /* Error 1: La tarjeta no ocupa el ancho esperado */
+        .tarjeta { 
+            width: 300px;
+            padding: 20px;
+            border: 2px solid #333;
+            box-sizing: border-box;
+        }
+
+        .tarjeta .titulo {
+            color: blue !important; 
+        }
+
+        /* Error 2: ¿gana el verde? */
+        #destacada h2 {
+            color: green;
+        }
+
+        /* Error 3: El precio no aparece en la página */
+        .precio { 
+            color: red;
+            font-size: 24px;
+        }
+        
+    </style>
+</body>
+</html>

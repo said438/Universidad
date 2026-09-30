@@ -1,0 +1,79 @@
+@model TPIntegradorBack.Models.Usuario
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles de usuario</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NombreUsuario)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NombreUsuario)
+        </dd>
+    </dl>
+@*         <dt class = "col-sm-2">
+            Contraseña
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Contrasenia)
+        </dd> *@
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Apellido)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            <label class="text-muted">Role</label>
+        </dt>
+        <dd>
+            @if (Model.Role == true)
+            {
+                <span>Administrador</span>
+            }
+            else
+            {
+                <span>Usuario</span>
+            }
+        </dd>
+    </dl>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Pedidos)
+        </dt>
+
+        <dd class="col-sm-10">
+            @if (Model.Pedidos != null && Model.Pedidos.Any())
+            {
+                <ul class="list-unstyled">
+                    @foreach (var pedido in Model.Pedidos)
+                    {
+                        <li>Pedido N°@pedido.PedidoId - Total: $@pedido.MontoTotal</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <span class="text-muted">Este usuario no tiene pedidos registrados.</span>
+            }
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@Model?.UsuarioId">Editar</a>
+    <a class="btn btn-secondary btn-sm" asp-action="Index">Volver</a>
+</div>

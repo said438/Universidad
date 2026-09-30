@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <Id>1</Id>
+    <Nombre>Laura</Nombre>
+    <Apellido>Se fue</Apellido>
+    <FechaNacimiento>1994-04-07T00:00:00</FechaNacimiento>
+    <Direccion>
+      <Calle>Una Calle</Calle>
+      <Numero>333</Numero>
+      <Ciudad>Rafaela</Ciudad>
+      <Provincia>Santa Fe</Provincia>
+    </Direccion>
+  </Persona>
+  <Persona>
+    <Id>2</Id>
+    <Nombre>Laura</Nombre>
+    <Apellido>Volvio</Apellido>
+    <FechaNacimiento>2024-06-05T00:00:00</FechaNacimiento>
+    <Direccion>
+      <Calle>Cambio de Direccion</Calle>
+      <Numero>4444</Numero>
+      <Ciudad>Santa fe</Ciudad>
+      <Provincia>Cordoba</Provincia>
+    </Direccion>
+  </Persona>
+</ArrayOfPersona>

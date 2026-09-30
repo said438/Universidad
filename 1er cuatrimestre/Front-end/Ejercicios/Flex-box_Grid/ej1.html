@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <style>
+
+        /* Error 1: Flex items no se centran verticalmente */
+        .hero { 
+            display: flex;
+            justify-content: center;
+            height: 400px; 
+        }
+
+        /* Error 2: Las tarjetas no se apilan en móvil */
+        .cards-container {
+            display: flex;
+            gap: 20px; 
+        }
+
+        .card {
+            flex: 1; 
+        }
+
+        @media (max-width: 768px) {
+            .cards-container { flex-direction: column; } 
+        }
+    </style>
+</body>
+</html>

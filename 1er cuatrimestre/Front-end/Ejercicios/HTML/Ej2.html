@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <h2>Contactanos</h2>
+
+        <div>
+            <label for="nombre">Ingrese su nombre completo: </label>
+            <input type="text" name="nombre" id="nombre" maxlength="50" required>
+        </div>
+
+        <div>
+            <label for="email">Ingrese su Email: </label>
+            <input type="email" required>
+        </div>
+
+        <div>
+            <label for="asunto">Ingrese la razon de su mensaje: </label>
+            <select name="asunto" id="listado-asuntos">
+                <option value="consulta-tecnica">Consulta tecnica</option>
+                <option value="presupuesto">Presupuesto</option>
+                <option value="otros">Otros</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="mensaje">Ingrese su mensaje: </label>
+            <textarea name="mensaje" id="mensaje" cols="50" rows="10" placeholder="Ingrese su mensaje aquí..."></textarea>
+        </div>
+
+        <label for="terminos-y-condiciones"></label>
+            <input type="checkbox" value="Aceptado" id="terminos-y-condiciones" required>
+            Acepto los terminos y condiciónes
+        
+
+        <button type="submit">Enviar mensaje</button>
+    </form>
+</body>
+</html>

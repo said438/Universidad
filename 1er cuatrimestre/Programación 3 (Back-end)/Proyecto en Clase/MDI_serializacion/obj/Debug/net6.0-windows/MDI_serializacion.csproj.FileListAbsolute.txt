@@ -1,0 +1,42 @@
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.exe
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.deps.json
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.runtimeconfig.json
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.dll
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.pdb
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.csproj.AssemblyReference.cache
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.csproj.GenerateResource.cache
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.AssemblyInfoInputs.cache
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.AssemblyInfo.cs
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.csproj.CoreCompileInputs.cache
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.dll
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\refint\MDI_serializacion.dll
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.pdb
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.genruntimeconfig.cache
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\ref\MDI_serializacion.dll
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.frmPersona.resources
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.FrmMDI.resources
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\bin\Debug\net6.0-windows\Mdi_Clases.dll
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\bin\Debug\net6.0-windows\Mdi_Clases.pdb
+C:\Users\Ale Tassoni\Desktop\C#\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.csproj.CopyComplete
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.exe
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.deps.json
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.runtimeconfig.json
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\bin\Debug\net6.0-windows\MDI_serializacion.pdb
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\bin\Debug\net6.0-windows\MDI_Clases.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\bin\Debug\net6.0-windows\MDI_Clases.pdb
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.csproj.AssemblyReference.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.FrmMDI.resources
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.frmPersona.resources
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.csproj.GenerateResource.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.AssemblyInfoInputs.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.AssemblyInfo.cs
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.csproj.CoreCompileInputs.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_seri.C96CB2C7.Up2Date
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\refint\MDI_serializacion.dll
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.pdb
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\MDI_serializacion.genruntimeconfig.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\MDI_serializacion\obj\Debug\net6.0-windows\ref\MDI_serializacion.dll

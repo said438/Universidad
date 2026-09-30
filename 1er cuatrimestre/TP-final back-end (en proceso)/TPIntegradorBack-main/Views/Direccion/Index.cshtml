@@ -1,0 +1,53 @@
+@model IEnumerable<TPIntegradorBack.Models.Direccion>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Direcciones de clientes</h1>
+
+<div>
+    <a class="btn btn-success" asp-action="Create" asp-route-clienteId="@ViewBag.ClienteId">Crear Nueva Dirección</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Calle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Calle)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Localidad)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Cliente.RazonSocial)
+            </td>
+            <td>
+                <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.DireccionId">Editar</a>
+@*                 <a class="btn btn-warning btn-sm" asp-action="Details" asp-route-id="@item.DireccionId">Ver</a> *@
+                <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.DireccionId">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

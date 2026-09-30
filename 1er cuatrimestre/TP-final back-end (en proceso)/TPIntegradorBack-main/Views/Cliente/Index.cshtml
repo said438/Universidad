@@ -1,0 +1,78 @@
+@model IEnumerable<TPIntegradorBack.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Clientes</h1>
+<div>
+    <a class="btn btn-success mb-3" asp-action="Create">Crear Nuevo Cliente</a>
+</div>
+<table class="table">
+    <thead class="thead-primary">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RazonSocial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DNI)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Activo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direcciones)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.RazonSocial)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.DNI)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Activo)
+            </td>
+            <td>
+                @if (item.Direcciones != null && item.Direcciones.Any())
+                {
+                    var primeraDireccion = item.Direcciones.FirstOrDefault();
+
+                    <span>@primeraDireccion.Calle @primeraDireccion.Numero</span>
+                    @if (item.Direcciones.Count > 1)
+                    {
+                        <a asp-controller="Direccion"
+                            asp-action="Index"
+                            asp-route-clienteId="@item.ClienteId">
+                            Ver Mas
+                        </a>
+                    }
+
+                }
+                else
+                {
+                    <span class="text-muted">Sin direcciones asociadas</span>
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Pedidos)
+            </td>
+            <td>
+                <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.ClienteId">Editar</a>
+                <a class="btn btn-warning btn-sm" asp-action="Details" asp-route-id="@item.ClienteId">Ver</a>
+                <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.ClienteId">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

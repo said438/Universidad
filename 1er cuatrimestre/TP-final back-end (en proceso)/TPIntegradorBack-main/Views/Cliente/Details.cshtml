@@ -1,0 +1,87 @@
+@model TPIntegradorBack.Models.Cliente
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalle de cliente</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RazonSocial)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RazonSocial)
+        </dd>
+
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DNI)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DNI)
+        </dd>
+
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Activo)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Activo)
+            </dd>
+
+        <dt class = "col-sm-2">
+            Direcciones
+        </dt>
+        <dd class = "col-sm-10">
+            @if (Model.Direcciones != null && Model.Direcciones.Any())
+            {
+
+                <a class="btn btn-outline-success"
+                    asp-controller="Direccion"
+                    asp-action="Index"
+                    asp-route-clienteId="@Model.ClienteId">
+                    Ver Direcciones
+                </a>
+
+            }
+
+            <a class="btn btn-outline-success"
+                asp-controller="Direccion"
+                asp-action="Create"
+                asp-route-clienteId="@Model.ClienteId">
+                Agregar Dirección
+            </a>
+        </dd>
+        <dt class="col-sm-2">
+            Pedidos
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.Pedidos != null && Model.Pedidos.Any())
+            {
+                <a class="btn btn-outline-success"
+                   asp-controller="Pedidos"
+                   asp-action="Index"
+                   asp-route-clienteId="@Model.ClienteId">
+                    Ver todos los pedidos de este cliente
+                </a>
+            }
+            else
+            {
+                <span class="text-muted">No hay pedidos registrados.</span>
+            }
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@Model?.ClienteId">Editar</a>
+    <a class="btn btn-secondary btn-sm" asp-action="Index">Volver</a>
+</div>

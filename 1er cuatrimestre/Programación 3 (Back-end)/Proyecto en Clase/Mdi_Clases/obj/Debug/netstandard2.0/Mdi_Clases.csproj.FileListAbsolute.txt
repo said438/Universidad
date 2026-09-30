@@ -1,0 +1,5 @@
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\netstandard2.0\Mdi_Clases.csproj.AssemblyReference.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\netstandard2.0\Mdi_Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\netstandard2.0\Mdi_Clases.AssemblyInfoInputs.cache
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\netstandard2.0\Mdi_Clases.AssemblyInfo.cs
+C:\Users\saidn\Desktop\Proyecto en Clase\Mdi_Clases\obj\Debug\netstandard2.0\Mdi_Clases.csproj.CoreCompileInputs.cache

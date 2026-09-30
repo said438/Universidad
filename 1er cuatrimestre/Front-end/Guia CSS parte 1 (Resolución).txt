@@ -1,0 +1,109 @@
+CSS parte 1
+Ejercicio 1)
+HTML de referencia:
+<div class="tarjeta" id="destacada">
+  <h2 class="titulo">Oferta Especial</h2>
+  <p class="precio">$1.999</p>
+</div>
+
+CSS con erroes:
+.tarjeta { width: 300px; padding: 20px; border: 2px solid #333; }
+/* Error 1: La tarjeta no ocupa el ancho esperado */
+
+Rtta: 
+.tarjeta { box-sizing: border-box; width: 300px; padding: 20px; border: 2px solid #333; }
+/*La tarjeta no ocupa el ancho esperado porque se estaba utilizando
+ "box-sizing: content-box" (por defecto) en vez de "box-sizing: border-box"*/
+
+.tarjeta .titulo { color: blue; }
+#destacada h2 { color: green; } /* Error 2: ¿gana el verde? */
+
+Rtta: 
+/*Ganaba la segunda linea ya que el ID es más especifico que las clases*/
+/*puede ganar el azul usando "!important", aunque es mala practica*/
+.tarjeta .titulo { color: blue !important; }
+#destacada h2 { color: green; }
+
+/*O tambien se puede modificar el CSS*/
+#destacada .titulo {color: blue}
+
+.precio { display: none; color: red; font-size: 24px; }
+/* Error 3: El precio no aparece en la página */
+
+Rtta: 
+.precio {color: red; font-size: 24px; }
+/*El precio no aparecia ya que el display estaba definido en "none"*/
+
+Ejercicio 2) 
+*{
+ box-sizing: border-box;
+}
+
+.card {
+ width: 200px;
+ border-radius: 8px;
+ padding: 20px;
+ box-shadow: 5px;
+}
+
+.card-badge {
+ background-color: green;
+ color: white;
+ font-size: small;
+ text-transform: uppercase;
+ border-radius: 8px;
+}
+
+.card-price {
+ color: orange;
+ width: 1.5rem;
+ font-weight: bold;
+}
+
+.card-btn {
+ bacground-color: blue;
+ color: white;
+ border: none;
+ padding 10px 20px;
+ width: 100%;
+}
+
+.card-btn:hover {
+ bacground-color: #1a6497;
+}
+
+Ejercicio 3)
+A)
+Ordenado de mayor a menor
+#sidebar .widget h3: (1, 1, 1)
+#main: (1, 0, 0)
+.nav a:hover: (0, 2, 1)
+.header: (0, 1, 0)
+body > main > section p: (0, 0, 4)
+div p: (0, 0, 2)
+h1: (0, 0, 1)
+
+El que gana sobre todos es: #sidebar .widget h3: (1, 1, 1)
+
+B)
+Caso 1 gana: Caso 1:  .contenido p { color: red; }
+Caso 2 gana: Caso 2:  #main .texto { font-size: 18px; }
+
+Ejercicio 4)
+El Box model son las disntintas partes que tienen todos los elementos HTML:
+* content.
+* padding.
+* border.
+* margin.(Esta por fuera del modelo)
+Hay dos tipos de modelo de caja:
+* content-box: el width y el eigth definen el tamaño solo del contenido de la caja y todas las partes, salvo el margin,
+se usan para calcular el tamaño total de la caja.
+* border-box: el width y el eigth definen el tamaño total de la caja y todas las partes se acomodan automaticamente al ancho y alto ya definidos.
+
+
+
+
+
+
+
+

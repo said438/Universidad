@@ -1,0 +1,67 @@
+1)
+a)
+SELECT * FROM HOTEL
+
+b) 
+SELECT * FROM HOTEL h
+WHERE h.city = 'London'
+
+c)
+SELECT guestName, guestAddress FROM Guest
+WHERE guestAddress LIKE '%London%'
+ORDER BY guestName
+
+d)
+SELECT roomNo, price FROM ROOM
+WHERE type IN ('double', 'family') AND price < 40
+ORDER BY price DESC
+
+u)
+SELECT MIN(r.price) AS precio_minimo, MAX(r.price) AS precio_maximo
+FROM HOTEL h
+JOIN ROOM r ON h.hotelno = r.hotelno
+WHERE h.hotelname = 'London Park';
+
+v)
+SELECT h.hotelname, r.type, AVG(r.price) AS precio_promedio
+FROM HOTEL h 
+JOIN ROOM r ON r.hotelno = h.hotelno
+WHERE h.city = 'London'
+GROUP BY h.hotelname, r.type
+ORDER BY h.hotelname, r.type;
+
+GUAI N° 4
+CREATE TABLE HOTEL (
+	hotelno NUMERIC(4) NOT NULL,
+    hotelname VARCHAR(30) NOT NULL,
+    city VARCHAR(30) NOT NULL,
+    PRIMARY KEY(hotelno));
+
+CREATE TABLE ROOM (
+	roomno NUMERIC(4)
+	hotelno NUMERIC(4)
+	type VARCHAR(30)
+    price DECIMAL(4)
+    PRIMARY KEY(roomno, hotelno)
+    FOREING KEY (hotelno) REFERENCES HOTEL);
+    
+CREATE TABLE GUEST (
+	guestno NUMERIC(4) NOT NULL,
+    guestname VARCHAR(30) NOT NULL,
+    guestaddress VARCHAR(30) NOT NULL DEFAULT 'Single'
+    PRIMARY KEY(guestno));
+
+CREATE TABLE BOOKING (
+	hotelno NUMERIC(4) NOT NULL
+    guestno NUMERIC(4)
+    datefrom TIMESTAMP
+    dateto TIMESTAMP
+    roomno NUMERIC(4)
+    PRIMARY KEY(hotelno, guestno, datefrom)
+	FOREING KEY (hotelno) REFERENCES HOTEL
+    FOREING KEY (roomno) REFERENCES ROOM
+    FOREING KEY (guestno) REFERENCES GUEST);
+
+
+
+

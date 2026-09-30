@@ -1,0 +1,77 @@
+@model IEnumerable<TPIntegradorBack.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Gestión de usuarios</h1>
+
+<div>
+    <a class="btn btn-success" asp-action="Create">Crear Nuevo Usuario</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nombre de Usuario
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>Rol</th>
+            <th>Pedidos</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.NombreUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Apellido)
+            </td>
+            <td>
+                    @if (item.Role == true)
+                    {
+                        <span class="btn-success">Admin</span>
+                    }
+                    else if (item.Role == false)
+                    {
+                        <span class="badge">User</span>
+                    }
+                    else
+                    {
+                        <span class="badge">@item.Role</span>
+                    }
+            </td>
+            <td>
+                @if (item.Pedidos != null && item.Pedidos.Any())
+                {
+                     <a class="btn btn-outline-success"
+                        asp-controller="Pedidos"
+                        asp-action="Index"
+                        asp-route-buscarUsuario="@item.NombreUsuario">
+                        Ver Pedidos
+                    </a>
+                }
+                else
+                {
+                    <span class="text-muted">Sin pedidos</span>
+                }
+            </td>
+            <td>
+                <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.UsuarioId">Editar</a> 
+                <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.UsuarioId">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

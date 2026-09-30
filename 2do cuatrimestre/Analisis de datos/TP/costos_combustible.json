@@ -1,0 +1,6002 @@
+[
+  {
+    "registro_id": "PREC0001",
+    "fecha": "2023-06-02",
+    "precio_litro": 354.86,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0002",
+    "fecha": "2023-06-02",
+    "precio_litro": 351.11,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0003",
+    "fecha": "2023-06-02",
+    "precio_litro": 337.25,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0004",
+    "fecha": "2023-06-03",
+    "precio_litro": 342.32,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0005",
+    "fecha": "2023-06-03",
+    "precio_litro": 370.33,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0006",
+    "fecha": "2023-06-03",
+    "precio_litro": 357.93,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0007",
+    "fecha": "2023-06-04",
+    "precio_litro": 331.86,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0008",
+    "fecha": "2023-06-04",
+    "precio_litro": 339.48,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0009",
+    "fecha": "2023-06-04",
+    "precio_litro": 376.16,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0010",
+    "fecha": "2023-06-05",
+    "precio_litro": 368.04,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0011",
+    "fecha": "2023-06-05",
+    "precio_litro": 368.64,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0012",
+    "fecha": "2023-06-06",
+    "precio_litro": 348.16,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0013",
+    "fecha": "2023-06-06",
+    "precio_litro": 369.59,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0014",
+    "fecha": "2023-06-06",
+    "precio_litro": 345.64,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0015",
+    "fecha": "2023-06-07",
+    "precio_litro": 343.36,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0016",
+    "fecha": "2023-06-07",
+    "precio_litro": 350.02,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0017",
+    "fecha": "2023-06-07",
+    "precio_litro": 369.03,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0018",
+    "fecha": "2023-06-08",
+    "precio_litro": 368.37,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0019",
+    "fecha": "2023-06-08",
+    "precio_litro": 350.39,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0020",
+    "fecha": "2023-06-08",
+    "precio_litro": 350.37,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0021",
+    "fecha": "2023-06-09",
+    "precio_litro": 350.06,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0022",
+    "fecha": "2023-06-09",
+    "precio_litro": 328.46,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0023",
+    "fecha": "2023-06-10",
+    "precio_litro": 340.13,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0024",
+    "fecha": "2023-06-10",
+    "precio_litro": 338.49,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0025",
+    "fecha": "2023-06-10",
+    "precio_litro": 364.22,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0026",
+    "fecha": "2023-06-11",
+    "precio_litro": 329.11,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0027",
+    "fecha": "2023-06-11",
+    "precio_litro": 357.07,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0028",
+    "fecha": "2023-06-11",
+    "precio_litro": 336.98,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0029",
+    "fecha": "2023-06-12",
+    "precio_litro": 368.23,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0030",
+    "fecha": "2023-06-12",
+    "precio_litro": 358.21,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0031",
+    "fecha": "2023-06-12",
+    "precio_litro": 335.12,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0032",
+    "fecha": "2023-06-13",
+    "precio_litro": 349.31,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0033",
+    "fecha": "2023-06-13",
+    "precio_litro": 350.98,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0034",
+    "fecha": "2023-06-14",
+    "precio_litro": 343.77,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0035",
+    "fecha": "2023-06-14",
+    "precio_litro": 375.0,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0036",
+    "fecha": "2023-06-14",
+    "precio_litro": 368.84,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0037",
+    "fecha": "2023-06-15",
+    "precio_litro": 364.82,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0038",
+    "fecha": "2023-06-15",
+    "precio_litro": 361.17,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0039",
+    "fecha": "2023-06-15",
+    "precio_litro": 366.35,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0040",
+    "fecha": "2023-06-16",
+    "precio_litro": 351.04,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0041",
+    "fecha": "2023-06-16",
+    "precio_litro": 345.9,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0042",
+    "fecha": "2023-06-16",
+    "precio_litro": 345.45,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0043",
+    "fecha": "2023-06-17",
+    "precio_litro": 376.1,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0044",
+    "fecha": "2023-06-17",
+    "precio_litro": 338.19,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0045",
+    "fecha": "2023-06-18",
+    "precio_litro": 345.66,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0046",
+    "fecha": "2023-06-18",
+    "precio_litro": 348.4,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0047",
+    "fecha": "2023-06-18",
+    "precio_litro": 363.69,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0048",
+    "fecha": "2023-06-19",
+    "precio_litro": 361.86,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0049",
+    "fecha": "2023-06-19",
+    "precio_litro": 366.57,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0050",
+    "fecha": "2023-06-19",
+    "precio_litro": 366.94,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0051",
+    "fecha": "2023-06-20",
+    "precio_litro": 342.07,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0052",
+    "fecha": "2023-06-20",
+    "precio_litro": 337.63,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0053",
+    "fecha": "2023-06-20",
+    "precio_litro": 368.17,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0054",
+    "fecha": "2023-06-21",
+    "precio_litro": 367.83,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0055",
+    "fecha": "2023-06-21",
+    "precio_litro": 348.69,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0056",
+    "fecha": "2023-06-22",
+    "precio_litro": 334.95,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0057",
+    "fecha": "2023-06-22",
+    "precio_litro": 362.72,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0058",
+    "fecha": "2023-06-22",
+    "precio_litro": 350.99,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0059",
+    "fecha": "2023-06-23",
+    "precio_litro": 366.5,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0060",
+    "fecha": "2023-06-23",
+    "precio_litro": 355.14,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0061",
+    "fecha": "2023-06-23",
+    "precio_litro": 352.49,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0062",
+    "fecha": "2023-06-24",
+    "precio_litro": 372.39,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0063",
+    "fecha": "2023-06-24",
+    "precio_litro": 348.25,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0064",
+    "fecha": "2023-06-25",
+    "precio_litro": 355.04,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0065",
+    "fecha": "2023-06-25",
+    "precio_litro": 371.87,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0066",
+    "fecha": "2023-06-25",
+    "precio_litro": 366.85,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0067",
+    "fecha": "2023-06-26",
+    "precio_litro": 364.57,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0068",
+    "fecha": "2023-06-26",
+    "precio_litro": 350.99,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0069",
+    "fecha": "2023-06-26",
+    "precio_litro": 374.3,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0070",
+    "fecha": "2023-06-27",
+    "precio_litro": 326.07,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0071",
+    "fecha": "2023-06-27",
+    "precio_litro": 353.6,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0072",
+    "fecha": "2023-06-27",
+    "precio_litro": 348.61,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0073",
+    "fecha": "2023-06-28",
+    "precio_litro": 346.11,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0074",
+    "fecha": "2023-06-28",
+    "precio_litro": 364.25,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0075",
+    "fecha": "2023-06-29",
+    "precio_litro": 345.85,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0076",
+    "fecha": "2023-06-29",
+    "precio_litro": 378.76,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0077",
+    "fecha": "2023-06-29",
+    "precio_litro": 373.06,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0078",
+    "fecha": "2023-06-30",
+    "precio_litro": 356.7,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0079",
+    "fecha": "2023-06-30",
+    "precio_litro": 376.66,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0080",
+    "fecha": "2023-06-30",
+    "precio_litro": 372.49,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0081",
+    "fecha": "2023-07-01",
+    "precio_litro": 343.95,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0082",
+    "fecha": "2023-07-01",
+    "precio_litro": 351.86,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0083",
+    "fecha": "2023-07-01",
+    "precio_litro": 360.68,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0084",
+    "fecha": "2023-07-02",
+    "precio_litro": 360.31,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0085",
+    "fecha": "2023-07-02",
+    "precio_litro": 353.69,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0086",
+    "fecha": "2023-07-03",
+    "precio_litro": 376.04,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0087",
+    "fecha": "2023-07-03",
+    "precio_litro": 376.35,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0088",
+    "fecha": "2023-07-03",
+    "precio_litro": 351.62,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0089",
+    "fecha": "2023-07-04",
+    "precio_litro": 354.88,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0090",
+    "fecha": "2023-07-04",
+    "precio_litro": 371.34,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0091",
+    "fecha": "2023-07-04",
+    "precio_litro": 350.61,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0092",
+    "fecha": "2023-07-05",
+    "precio_litro": 370.78,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0093",
+    "fecha": "2023-07-05",
+    "precio_litro": 376.5,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0094",
+    "fecha": "2023-07-05",
+    "precio_litro": 344.03,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0095",
+    "fecha": "2023-07-06",
+    "precio_litro": 383.81,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0096",
+    "fecha": "2023-07-06",
+    "precio_litro": 367.81,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0097",
+    "fecha": "2023-07-07",
+    "precio_litro": 330.49,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0098",
+    "fecha": "2023-07-07",
+    "precio_litro": 358.47,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0099",
+    "fecha": "2023-07-07",
+    "precio_litro": 365.67,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0100",
+    "fecha": "2023-07-08",
+    "precio_litro": 339.16,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0101",
+    "fecha": "2023-07-08",
+    "precio_litro": 337.6,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0102",
+    "fecha": "2023-07-08",
+    "precio_litro": 365.22,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0103",
+    "fecha": "2023-07-09",
+    "precio_litro": 364.66,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0104",
+    "fecha": "2023-07-09",
+    "precio_litro": 350.9,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0105",
+    "fecha": "2023-07-09",
+    "precio_litro": 359.67,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0106",
+    "fecha": "2023-07-10",
+    "precio_litro": 369.03,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0107",
+    "fecha": "2023-07-10",
+    "precio_litro": 364.85,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0108",
+    "fecha": "2023-07-11",
+    "precio_litro": 376.73,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0109",
+    "fecha": "2023-07-11",
+    "precio_litro": 360.0,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0110",
+    "fecha": "2023-07-11",
+    "precio_litro": 351.75,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0111",
+    "fecha": "2023-07-12",
+    "precio_litro": 358.52,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0112",
+    "fecha": "2023-07-12",
+    "precio_litro": 355.69,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0113",
+    "fecha": "2023-07-12",
+    "precio_litro": 348.96,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0114",
+    "fecha": "2023-07-13",
+    "precio_litro": 374.64,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0115",
+    "fecha": "2023-07-13",
+    "precio_litro": 354.12,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0116",
+    "fecha": "2023-07-14",
+    "precio_litro": 350.17,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0117",
+    "fecha": "2023-07-14",
+    "precio_litro": 357.67,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0118",
+    "fecha": "2023-07-14",
+    "precio_litro": 360.17,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0119",
+    "fecha": "2023-07-15",
+    "precio_litro": 388.34,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0120",
+    "fecha": "2023-07-15",
+    "precio_litro": 346.73,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0121",
+    "fecha": "2023-07-15",
+    "precio_litro": 351.2,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0122",
+    "fecha": "2023-07-16",
+    "precio_litro": 367.19,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0123",
+    "fecha": "2023-07-16",
+    "precio_litro": 387.55,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0124",
+    "fecha": "2023-07-16",
+    "precio_litro": 367.67,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0125",
+    "fecha": "2023-07-17",
+    "precio_litro": 381.89,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0126",
+    "fecha": "2023-07-17",
+    "precio_litro": 366.05,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0127",
+    "fecha": "2023-07-18",
+    "precio_litro": 377.28,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0128",
+    "fecha": "2023-07-18",
+    "precio_litro": 364.74,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0129",
+    "fecha": "2023-07-18",
+    "precio_litro": 371.62,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0130",
+    "fecha": "2023-07-19",
+    "precio_litro": 350.92,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0131",
+    "fecha": "2023-07-19",
+    "precio_litro": 355.24,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0132",
+    "fecha": "2023-07-19",
+    "precio_litro": 383.11,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0133",
+    "fecha": "2023-07-20",
+    "precio_litro": 367.6,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0134",
+    "fecha": "2023-07-20",
+    "precio_litro": 381.84,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0135",
+    "fecha": "2023-07-20",
+    "precio_litro": 364.28,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0136",
+    "fecha": "2023-07-21",
+    "precio_litro": 365.9,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0137",
+    "fecha": "2023-07-21",
+    "precio_litro": 348.02,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0138",
+    "fecha": "2023-07-22",
+    "precio_litro": 355.12,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0139",
+    "fecha": "2023-07-22",
+    "precio_litro": 387.67,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0140",
+    "fecha": "2023-07-22",
+    "precio_litro": 356.44,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0141",
+    "fecha": "2023-07-23",
+    "precio_litro": 360.55,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0142",
+    "fecha": "2023-07-23",
+    "precio_litro": 371.31,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0143",
+    "fecha": "2023-07-23",
+    "precio_litro": 374.15,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0144",
+    "fecha": "2023-07-24",
+    "precio_litro": 377.4,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0145",
+    "fecha": "2023-07-24",
+    "precio_litro": 364.11,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0146",
+    "fecha": "2023-07-24",
+    "precio_litro": 359.2,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0147",
+    "fecha": "2023-07-25",
+    "precio_litro": 366.17,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0148",
+    "fecha": "2023-07-25",
+    "precio_litro": 366.9,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0149",
+    "fecha": "2023-07-26",
+    "precio_litro": 373.34,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0150",
+    "fecha": "2023-07-26",
+    "precio_litro": 364.27,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0151",
+    "fecha": "2023-07-26",
+    "precio_litro": 357.67,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0152",
+    "fecha": "2023-07-27",
+    "precio_litro": 370.75,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0153",
+    "fecha": "2023-07-27",
+    "precio_litro": 355.51,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0154",
+    "fecha": "2023-07-27",
+    "precio_litro": 394.52,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0155",
+    "fecha": "2023-07-28",
+    "precio_litro": 374.69,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0156",
+    "fecha": "2023-07-28",
+    "precio_litro": 357.77,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0157",
+    "fecha": "2023-07-28",
+    "precio_litro": 364.45,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0158",
+    "fecha": "2023-07-29",
+    "precio_litro": 377.06,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0159",
+    "fecha": "2023-07-29",
+    "precio_litro": 367.08,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0160",
+    "fecha": "2023-07-30",
+    "precio_litro": 375.49,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0161",
+    "fecha": "2023-07-30",
+    "precio_litro": 360.46,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0162",
+    "fecha": "2023-07-30",
+    "precio_litro": 350.5,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0163",
+    "fecha": "2023-07-31",
+    "precio_litro": 352.26,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0164",
+    "fecha": "2023-07-31",
+    "precio_litro": 384.88,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0165",
+    "fecha": "2023-07-31",
+    "precio_litro": 354.53,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0166",
+    "fecha": "2023-08-01",
+    "precio_litro": 365.51,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0167",
+    "fecha": "2023-08-01",
+    "precio_litro": 386.43,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0168",
+    "fecha": "2023-08-02",
+    "precio_litro": 383.72,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0169",
+    "fecha": "2023-08-02",
+    "precio_litro": 373.35,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0170",
+    "fecha": "2023-08-02",
+    "precio_litro": 387.63,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0171",
+    "fecha": "2023-08-03",
+    "precio_litro": 364.55,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0172",
+    "fecha": "2023-08-03",
+    "precio_litro": 371.4,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0173",
+    "fecha": "2023-08-03",
+    "precio_litro": 392.38,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0174",
+    "fecha": "2023-08-04",
+    "precio_litro": 385.35,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0175",
+    "fecha": "2023-08-04",
+    "precio_litro": 382.02,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0176",
+    "fecha": "2023-08-04",
+    "precio_litro": 357.89,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0177",
+    "fecha": "2023-08-05",
+    "precio_litro": 345.72,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0178",
+    "fecha": "2023-08-05",
+    "precio_litro": 371.9,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0179",
+    "fecha": "2023-08-06",
+    "precio_litro": 380.27,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0180",
+    "fecha": "2023-08-06",
+    "precio_litro": 361.27,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0181",
+    "fecha": "2023-08-06",
+    "precio_litro": 358.4,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0182",
+    "fecha": "2023-08-07",
+    "precio_litro": 349.63,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0183",
+    "fecha": "2023-08-07",
+    "precio_litro": 348.18,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0184",
+    "fecha": "2023-08-07",
+    "precio_litro": 353.73,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0185",
+    "fecha": "2023-08-08",
+    "precio_litro": 384.41,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0186",
+    "fecha": "2023-08-08",
+    "precio_litro": 384.84,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0187",
+    "fecha": "2023-08-08",
+    "precio_litro": 390.06,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0188",
+    "fecha": "2023-08-09",
+    "precio_litro": 369.64,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0189",
+    "fecha": "2023-08-09",
+    "precio_litro": 355.52,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0190",
+    "fecha": "2023-08-10",
+    "precio_litro": 365.46,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0191",
+    "fecha": "2023-08-10",
+    "precio_litro": 356.26,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0192",
+    "fecha": "2023-08-10",
+    "precio_litro": 375.62,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0193",
+    "fecha": "2023-08-11",
+    "precio_litro": 369.6,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0194",
+    "fecha": "2023-08-11",
+    "precio_litro": 373.03,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0195",
+    "fecha": "2023-08-11",
+    "precio_litro": 384.56,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0196",
+    "fecha": "2023-08-12",
+    "precio_litro": 357.86,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0197",
+    "fecha": "2023-08-12",
+    "precio_litro": 366.99,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0198",
+    "fecha": "2023-08-12",
+    "precio_litro": 364.97,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0199",
+    "fecha": "2023-08-13",
+    "precio_litro": 361.47,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0200",
+    "fecha": "2023-08-13",
+    "precio_litro": 359.05,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0201",
+    "fecha": "2023-08-14",
+    "precio_litro": 361.06,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0202",
+    "fecha": "2023-08-14",
+    "precio_litro": 344.64,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0203",
+    "fecha": "2023-08-14",
+    "precio_litro": 364.27,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0204",
+    "fecha": "2023-08-15",
+    "precio_litro": 358.07,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0205",
+    "fecha": "2023-08-15",
+    "precio_litro": 353.63,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0206",
+    "fecha": "2023-08-15",
+    "precio_litro": 391.72,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0207",
+    "fecha": "2023-08-16",
+    "precio_litro": 387.74,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0208",
+    "fecha": "2023-08-16",
+    "precio_litro": 365.01,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0209",
+    "fecha": "2023-08-16",
+    "precio_litro": 381.44,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0210",
+    "fecha": "2023-08-17",
+    "precio_litro": 359.32,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0211",
+    "fecha": "2023-08-17",
+    "precio_litro": 393.6,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0212",
+    "fecha": "2023-08-18",
+    "precio_litro": 374.4,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0213",
+    "fecha": "2023-08-18",
+    "precio_litro": 369.32,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0214",
+    "fecha": "2023-08-18",
+    "precio_litro": 359.69,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0215",
+    "fecha": "2023-08-19",
+    "precio_litro": 380.92,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0216",
+    "fecha": "2023-08-19",
+    "precio_litro": 380.19,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0217",
+    "fecha": "2023-08-19",
+    "precio_litro": 336.32,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0218",
+    "fecha": "2023-08-20",
+    "precio_litro": 385.47,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0219",
+    "fecha": "2023-08-20",
+    "precio_litro": 396.15,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0220",
+    "fecha": "2023-08-21",
+    "precio_litro": 340.57,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0221",
+    "fecha": "2023-08-21",
+    "precio_litro": 353.63,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0222",
+    "fecha": "2023-08-21",
+    "precio_litro": 403.12,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0223",
+    "fecha": "2023-08-22",
+    "precio_litro": 362.04,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0224",
+    "fecha": "2023-08-22",
+    "precio_litro": 388.25,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0225",
+    "fecha": "2023-08-22",
+    "precio_litro": 386.85,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0226",
+    "fecha": "2023-08-23",
+    "precio_litro": 366.65,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0227",
+    "fecha": "2023-08-23",
+    "precio_litro": 401.64,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0228",
+    "fecha": "2023-08-23",
+    "precio_litro": 361.17,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0229",
+    "fecha": "2023-08-24",
+    "precio_litro": 380.05,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0230",
+    "fecha": "2023-08-24",
+    "precio_litro": 355.44,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0231",
+    "fecha": "2023-08-25",
+    "precio_litro": 363.94,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0232",
+    "fecha": "2023-08-25",
+    "precio_litro": 366.82,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0233",
+    "fecha": "2023-08-25",
+    "precio_litro": 364.6,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0234",
+    "fecha": "2023-08-26",
+    "precio_litro": 361.38,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0235",
+    "fecha": "2023-08-26",
+    "precio_litro": 391.3,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0236",
+    "fecha": "2023-08-26",
+    "precio_litro": 366.69,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0237",
+    "fecha": "2023-08-27",
+    "precio_litro": 361.11,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0238",
+    "fecha": "2023-08-27",
+    "precio_litro": 355.44,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0239",
+    "fecha": "2023-08-27",
+    "precio_litro": 406.55,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0240",
+    "fecha": "2023-08-28",
+    "precio_litro": 387.39,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0241",
+    "fecha": "2023-08-28",
+    "precio_litro": 369.73,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0242",
+    "fecha": "2023-08-29",
+    "precio_litro": 367.58,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0243",
+    "fecha": "2023-08-29",
+    "precio_litro": 365.18,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0244",
+    "fecha": "2023-08-29",
+    "precio_litro": 377.14,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0245",
+    "fecha": "2023-08-30",
+    "precio_litro": 399.88,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0246",
+    "fecha": "2023-08-30",
+    "precio_litro": 391.4,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0247",
+    "fecha": "2023-08-30",
+    "precio_litro": 395.38,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0248",
+    "fecha": "2023-08-31",
+    "precio_litro": 404.65,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0249",
+    "fecha": "2023-08-31",
+    "precio_litro": 356.4,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0250",
+    "fecha": "2023-08-31",
+    "precio_litro": 379.58,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0251",
+    "fecha": "2023-09-01",
+    "precio_litro": 385.53,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0252",
+    "fecha": "2023-09-01",
+    "precio_litro": 392.46,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0253",
+    "fecha": "2023-09-02",
+    "precio_litro": 352.59,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0254",
+    "fecha": "2023-09-02",
+    "precio_litro": 358.8,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0255",
+    "fecha": "2023-09-02",
+    "precio_litro": 392.1,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0256",
+    "fecha": "2023-09-03",
+    "precio_litro": 390.6,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0257",
+    "fecha": "2023-09-03",
+    "precio_litro": 383.57,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0258",
+    "fecha": "2023-09-03",
+    "precio_litro": 361.53,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0259",
+    "fecha": "2023-09-04",
+    "precio_litro": 349.49,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0260",
+    "fecha": "2023-09-04",
+    "precio_litro": 389.47,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0261",
+    "fecha": "2023-09-04",
+    "precio_litro": 362.06,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0262",
+    "fecha": "2023-09-05",
+    "precio_litro": 369.18,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0263",
+    "fecha": "2023-09-05",
+    "precio_litro": 387.83,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0264",
+    "fecha": "2023-09-06",
+    "precio_litro": 372.41,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0265",
+    "fecha": "2023-09-06",
+    "precio_litro": 369.93,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0266",
+    "fecha": "2023-09-06",
+    "precio_litro": 377.13,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0267",
+    "fecha": "2023-09-07",
+    "precio_litro": 406.12,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0268",
+    "fecha": "2023-09-07",
+    "precio_litro": 402.12,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0269",
+    "fecha": "2023-09-07",
+    "precio_litro": 358.76,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0270",
+    "fecha": "2023-09-08",
+    "precio_litro": 370.06,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0271",
+    "fecha": "2023-09-08",
+    "precio_litro": 376.95,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0272",
+    "fecha": "2023-09-09",
+    "precio_litro": 395.09,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0273",
+    "fecha": "2023-09-09",
+    "precio_litro": 372.14,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0274",
+    "fecha": "2023-09-09",
+    "precio_litro": 386.64,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0275",
+    "fecha": "2023-09-10",
+    "precio_litro": 379.08,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0276",
+    "fecha": "2023-09-10",
+    "precio_litro": 375.26,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0277",
+    "fecha": "2023-09-10",
+    "precio_litro": 389.48,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0278",
+    "fecha": "2023-09-11",
+    "precio_litro": 382.74,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0279",
+    "fecha": "2023-09-11",
+    "precio_litro": 367.71,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0280",
+    "fecha": "2023-09-11",
+    "precio_litro": 397.74,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0281",
+    "fecha": "2023-09-12",
+    "precio_litro": 411.55,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0282",
+    "fecha": "2023-09-12",
+    "precio_litro": 391.4,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0283",
+    "fecha": "2023-09-13",
+    "precio_litro": 393.98,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0284",
+    "fecha": "2023-09-13",
+    "precio_litro": 352.93,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0285",
+    "fecha": "2023-09-13",
+    "precio_litro": 370.87,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0286",
+    "fecha": "2023-09-14",
+    "precio_litro": 382.42,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0287",
+    "fecha": "2023-09-14",
+    "precio_litro": 378.55,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0288",
+    "fecha": "2023-09-14",
+    "precio_litro": 369.08,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0289",
+    "fecha": "2023-09-15",
+    "precio_litro": 373.29,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0290",
+    "fecha": "2023-09-15",
+    "precio_litro": 363.3,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0291",
+    "fecha": "2023-09-15",
+    "precio_litro": 349.47,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0292",
+    "fecha": "2023-09-16",
+    "precio_litro": 376.41,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0293",
+    "fecha": "2023-09-16",
+    "precio_litro": 364.61,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0294",
+    "fecha": "2023-09-17",
+    "precio_litro": 375.41,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0295",
+    "fecha": "2023-09-17",
+    "precio_litro": 357.32,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0296",
+    "fecha": "2023-09-17",
+    "precio_litro": 359.92,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0297",
+    "fecha": "2023-09-18",
+    "precio_litro": 380.84,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0298",
+    "fecha": "2023-09-18",
+    "precio_litro": 374.49,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0299",
+    "fecha": "2023-09-18",
+    "precio_litro": 343.39,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0300",
+    "fecha": "2023-09-19",
+    "precio_litro": 383.01,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0301",
+    "fecha": "2023-09-19",
+    "precio_litro": 362.7,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0302",
+    "fecha": "2023-09-19",
+    "precio_litro": 404.6,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0303",
+    "fecha": "2023-09-20",
+    "precio_litro": 377.63,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0304",
+    "fecha": "2023-09-20",
+    "precio_litro": 376.27,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0305",
+    "fecha": "2023-09-21",
+    "precio_litro": 369.77,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0306",
+    "fecha": "2023-09-21",
+    "precio_litro": 380.62,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0307",
+    "fecha": "2023-09-21",
+    "precio_litro": 354.0,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0308",
+    "fecha": "2023-09-22",
+    "precio_litro": 394.14,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0309",
+    "fecha": "2023-09-22",
+    "precio_litro": 401.2,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0310",
+    "fecha": "2023-09-22",
+    "precio_litro": 408.89,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0311",
+    "fecha": "2023-09-23",
+    "precio_litro": 402.9,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0312",
+    "fecha": "2023-09-23",
+    "precio_litro": 404.88,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0313",
+    "fecha": "2023-09-23",
+    "precio_litro": 342.94,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0314",
+    "fecha": "2023-09-24",
+    "precio_litro": 403.9,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0315",
+    "fecha": "2023-09-24",
+    "precio_litro": 380.33,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0316",
+    "fecha": "2023-09-25",
+    "precio_litro": 372.03,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0317",
+    "fecha": "2023-09-25",
+    "precio_litro": 379.59,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0318",
+    "fecha": "2023-09-25",
+    "precio_litro": 366.19,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0319",
+    "fecha": "2023-09-26",
+    "precio_litro": 378.96,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0320",
+    "fecha": "2023-09-26",
+    "precio_litro": 380.21,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0321",
+    "fecha": "2023-09-26",
+    "precio_litro": 408.48,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0322",
+    "fecha": "2023-09-27",
+    "precio_litro": 382.3,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0323",
+    "fecha": "2023-09-27",
+    "precio_litro": 409.47,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0324",
+    "fecha": "2023-09-28",
+    "precio_litro": 363.34,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0325",
+    "fecha": "2023-09-28",
+    "precio_litro": 373.49,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0326",
+    "fecha": "2023-09-28",
+    "precio_litro": 382.9,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0327",
+    "fecha": "2023-09-29",
+    "precio_litro": 393.33,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0328",
+    "fecha": "2023-09-29",
+    "precio_litro": 362.94,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0329",
+    "fecha": "2023-09-29",
+    "precio_litro": 377.29,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0330",
+    "fecha": "2023-09-30",
+    "precio_litro": 385.92,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0331",
+    "fecha": "2023-09-30",
+    "precio_litro": 390.37,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0332",
+    "fecha": "2023-09-30",
+    "precio_litro": 395.09,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0333",
+    "fecha": "2023-10-01",
+    "precio_litro": 396.1,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0334",
+    "fecha": "2023-10-01",
+    "precio_litro": 402.23,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0335",
+    "fecha": "2023-10-02",
+    "precio_litro": 374.93,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0336",
+    "fecha": "2023-10-02",
+    "precio_litro": 380.43,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0337",
+    "fecha": "2023-10-02",
+    "precio_litro": 395.41,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0338",
+    "fecha": "2023-10-03",
+    "precio_litro": 394.18,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0339",
+    "fecha": "2023-10-03",
+    "precio_litro": 387.63,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0340",
+    "fecha": "2023-10-03",
+    "precio_litro": 388.71,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0341",
+    "fecha": "2023-10-04",
+    "precio_litro": 385.48,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0342",
+    "fecha": "2023-10-04",
+    "precio_litro": 361.79,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0343",
+    "fecha": "2023-10-04",
+    "precio_litro": 394.05,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0344",
+    "fecha": "2023-10-05",
+    "precio_litro": 371.08,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0345",
+    "fecha": "2023-10-05",
+    "precio_litro": 393.86,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0346",
+    "fecha": "2023-10-06",
+    "precio_litro": 388.98,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0347",
+    "fecha": "2023-10-06",
+    "precio_litro": 399.84,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0348",
+    "fecha": "2023-10-06",
+    "precio_litro": 382.69,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0349",
+    "fecha": "2023-10-07",
+    "precio_litro": 356.49,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0350",
+    "fecha": "2023-10-07",
+    "precio_litro": 386.03,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0351",
+    "fecha": "2023-10-07",
+    "precio_litro": 405.56,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0352",
+    "fecha": "2023-10-08",
+    "precio_litro": 385.0,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0353",
+    "fecha": "2023-10-08",
+    "precio_litro": 389.65,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0354",
+    "fecha": "2023-10-08",
+    "precio_litro": 368.42,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0355",
+    "fecha": "2023-10-09",
+    "precio_litro": 399.6,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0356",
+    "fecha": "2023-10-09",
+    "precio_litro": 376.58,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0357",
+    "fecha": "2023-10-10",
+    "precio_litro": 365.95,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0358",
+    "fecha": "2023-10-10",
+    "precio_litro": 399.9,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0359",
+    "fecha": "2023-10-10",
+    "precio_litro": 379.24,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0360",
+    "fecha": "2023-10-11",
+    "precio_litro": 381.09,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0361",
+    "fecha": "2023-10-11",
+    "precio_litro": 407.98,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0362",
+    "fecha": "2023-10-11",
+    "precio_litro": 400.28,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0363",
+    "fecha": "2023-10-12",
+    "precio_litro": 402.84,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0364",
+    "fecha": "2023-10-12",
+    "precio_litro": 381.54,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0365",
+    "fecha": "2023-10-12",
+    "precio_litro": 370.99,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0366",
+    "fecha": "2023-10-13",
+    "precio_litro": 386.2,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0367",
+    "fecha": "2023-10-13",
+    "precio_litro": 390.17,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0368",
+    "fecha": "2023-10-14",
+    "precio_litro": 396.17,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0369",
+    "fecha": "2023-10-14",
+    "precio_litro": 409.25,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0370",
+    "fecha": "2023-10-14",
+    "precio_litro": 390.97,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0371",
+    "fecha": "2023-10-15",
+    "precio_litro": 389.71,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0372",
+    "fecha": "2023-10-15",
+    "precio_litro": 388.74,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0373",
+    "fecha": "2023-10-15",
+    "precio_litro": 389.67,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0374",
+    "fecha": "2023-10-16",
+    "precio_litro": 389.74,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0375",
+    "fecha": "2023-10-16",
+    "precio_litro": 378.14,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0376",
+    "fecha": "2023-10-17",
+    "precio_litro": 387.38,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0377",
+    "fecha": "2023-10-17",
+    "precio_litro": 415.01,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0378",
+    "fecha": "2023-10-17",
+    "precio_litro": 373.78,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0379",
+    "fecha": "2023-10-18",
+    "precio_litro": 403.92,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0380",
+    "fecha": "2023-10-18",
+    "precio_litro": 368.69,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0381",
+    "fecha": "2023-10-18",
+    "precio_litro": 430.28,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0382",
+    "fecha": "2023-10-19",
+    "precio_litro": 407.39,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0383",
+    "fecha": "2023-10-19",
+    "precio_litro": 384.13,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0384",
+    "fecha": "2023-10-19",
+    "precio_litro": 407.5,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0385",
+    "fecha": "2023-10-20",
+    "precio_litro": 382.97,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0386",
+    "fecha": "2023-10-20",
+    "precio_litro": 404.12,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0387",
+    "fecha": "2023-10-21",
+    "precio_litro": 422.5,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0388",
+    "fecha": "2023-10-21",
+    "precio_litro": 412.75,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0389",
+    "fecha": "2023-10-21",
+    "precio_litro": 400.3,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0390",
+    "fecha": "2023-10-22",
+    "precio_litro": 400.21,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0391",
+    "fecha": "2023-10-22",
+    "precio_litro": 388.4,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0392",
+    "fecha": "2023-10-22",
+    "precio_litro": 365.52,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0393",
+    "fecha": "2023-10-23",
+    "precio_litro": 397.11,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0394",
+    "fecha": "2023-10-23",
+    "precio_litro": 392.74,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0395",
+    "fecha": "2023-10-23",
+    "precio_litro": 382.72,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0396",
+    "fecha": "2023-10-24",
+    "precio_litro": 372.0,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0397",
+    "fecha": "2023-10-24",
+    "precio_litro": 409.96,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0398",
+    "fecha": "2023-10-25",
+    "precio_litro": 417.07,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0399",
+    "fecha": "2023-10-25",
+    "precio_litro": 384.96,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0400",
+    "fecha": "2023-10-25",
+    "precio_litro": 401.17,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0401",
+    "fecha": "2023-10-26",
+    "precio_litro": 399.48,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0402",
+    "fecha": "2023-10-26",
+    "precio_litro": 393.86,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0403",
+    "fecha": "2023-10-26",
+    "precio_litro": 384.52,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0404",
+    "fecha": "2023-10-27",
+    "precio_litro": 391.65,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0405",
+    "fecha": "2023-10-27",
+    "precio_litro": 395.8,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0406",
+    "fecha": "2023-10-27",
+    "precio_litro": 401.21,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0407",
+    "fecha": "2023-10-28",
+    "precio_litro": 368.92,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0408",
+    "fecha": "2023-10-28",
+    "precio_litro": 411.74,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0409",
+    "fecha": "2023-10-29",
+    "precio_litro": 359.95,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0410",
+    "fecha": "2023-10-29",
+    "precio_litro": 410.74,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0411",
+    "fecha": "2023-10-29",
+    "precio_litro": 394.31,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0412",
+    "fecha": "2023-10-30",
+    "precio_litro": 412.15,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0413",
+    "fecha": "2023-10-30",
+    "precio_litro": 400.35,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0414",
+    "fecha": "2023-10-30",
+    "precio_litro": 385.3,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0415",
+    "fecha": "2023-10-31",
+    "precio_litro": 387.61,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0416",
+    "fecha": "2023-10-31",
+    "precio_litro": 391.31,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0417",
+    "fecha": "2023-10-31",
+    "precio_litro": 388.11,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0418",
+    "fecha": "2023-11-01",
+    "precio_litro": 389.39,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0419",
+    "fecha": "2023-11-01",
+    "precio_litro": 396.08,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0420",
+    "fecha": "2023-11-02",
+    "precio_litro": 391.43,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0421",
+    "fecha": "2023-11-02",
+    "precio_litro": 398.33,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0422",
+    "fecha": "2023-11-02",
+    "precio_litro": 390.07,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0423",
+    "fecha": "2023-11-03",
+    "precio_litro": 383.52,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0424",
+    "fecha": "2023-11-03",
+    "precio_litro": 383.82,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0425",
+    "fecha": "2023-11-03",
+    "precio_litro": 411.16,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0426",
+    "fecha": "2023-11-04",
+    "precio_litro": 362.74,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0427",
+    "fecha": "2023-11-04",
+    "precio_litro": 388.02,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0428",
+    "fecha": "2023-11-05",
+    "precio_litro": 405.98,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0429",
+    "fecha": "2023-11-05",
+    "precio_litro": 394.76,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0430",
+    "fecha": "2023-11-05",
+    "precio_litro": 405.73,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0431",
+    "fecha": "2023-11-06",
+    "precio_litro": 418.07,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0432",
+    "fecha": "2023-11-06",
+    "precio_litro": 383.43,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0433",
+    "fecha": "2023-11-06",
+    "precio_litro": 419.81,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0434",
+    "fecha": "2023-11-07",
+    "precio_litro": 378.21,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0435",
+    "fecha": "2023-11-07",
+    "precio_litro": 420.55,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0436",
+    "fecha": "2023-11-07",
+    "precio_litro": 390.35,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0437",
+    "fecha": "2023-11-08",
+    "precio_litro": 405.87,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0438",
+    "fecha": "2023-11-08",
+    "precio_litro": 399.94,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0439",
+    "fecha": "2023-11-09",
+    "precio_litro": 409.71,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0440",
+    "fecha": "2023-11-09",
+    "precio_litro": 393.27,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0441",
+    "fecha": "2023-11-09",
+    "precio_litro": 389.71,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0442",
+    "fecha": "2023-11-10",
+    "precio_litro": 401.78,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0443",
+    "fecha": "2023-11-10",
+    "precio_litro": 407.73,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0444",
+    "fecha": "2023-11-10",
+    "precio_litro": 395.39,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0445",
+    "fecha": "2023-11-11",
+    "precio_litro": 407.57,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0446",
+    "fecha": "2023-11-11",
+    "precio_litro": 378.29,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0447",
+    "fecha": "2023-11-11",
+    "precio_litro": 402.14,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0448",
+    "fecha": "2023-11-12",
+    "precio_litro": 422.58,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0449",
+    "fecha": "2023-11-12",
+    "precio_litro": 372.81,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0450",
+    "fecha": "2023-11-13",
+    "precio_litro": 375.97,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0451",
+    "fecha": "2023-11-13",
+    "precio_litro": 428.9,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0452",
+    "fecha": "2023-11-13",
+    "precio_litro": 407.65,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0453",
+    "fecha": "2023-11-14",
+    "precio_litro": 360.66,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0454",
+    "fecha": "2023-11-14",
+    "precio_litro": 407.87,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0455",
+    "fecha": "2023-11-14",
+    "precio_litro": 389.48,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0456",
+    "fecha": "2023-11-15",
+    "precio_litro": 406.78,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0457",
+    "fecha": "2023-11-15",
+    "precio_litro": 398.05,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0458",
+    "fecha": "2023-11-15",
+    "precio_litro": 400.53,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0459",
+    "fecha": "2023-11-16",
+    "precio_litro": 388.87,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0460",
+    "fecha": "2023-11-16",
+    "precio_litro": 412.75,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0461",
+    "fecha": "2023-11-17",
+    "precio_litro": 394.71,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0462",
+    "fecha": "2023-11-17",
+    "precio_litro": 367.8,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0463",
+    "fecha": "2023-11-17",
+    "precio_litro": 379.28,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0464",
+    "fecha": "2023-11-18",
+    "precio_litro": 378.53,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0465",
+    "fecha": "2023-11-18",
+    "precio_litro": 390.74,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0466",
+    "fecha": "2023-11-18",
+    "precio_litro": 414.35,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0467",
+    "fecha": "2023-11-19",
+    "precio_litro": 403.03,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0468",
+    "fecha": "2023-11-19",
+    "precio_litro": 392.66,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0469",
+    "fecha": "2023-11-19",
+    "precio_litro": 400.67,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0470",
+    "fecha": "2023-11-20",
+    "precio_litro": 410.67,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0471",
+    "fecha": "2023-11-20",
+    "precio_litro": 419.04,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0472",
+    "fecha": "2023-11-21",
+    "precio_litro": 386.79,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0473",
+    "fecha": "2023-11-21",
+    "precio_litro": 420.86,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0474",
+    "fecha": "2023-11-21",
+    "precio_litro": 416.5,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0475",
+    "fecha": "2023-11-22",
+    "precio_litro": 418.96,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0476",
+    "fecha": "2023-11-22",
+    "precio_litro": 402.68,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0477",
+    "fecha": "2023-11-22",
+    "precio_litro": 420.27,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0478",
+    "fecha": "2023-11-23",
+    "precio_litro": 396.16,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0479",
+    "fecha": "2023-11-23",
+    "precio_litro": 397.55,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0480",
+    "fecha": "2023-11-24",
+    "precio_litro": 408.57,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0481",
+    "fecha": "2023-11-24",
+    "precio_litro": 399.76,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0482",
+    "fecha": "2023-11-24",
+    "precio_litro": 419.29,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0483",
+    "fecha": "2023-11-25",
+    "precio_litro": 390.09,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0484",
+    "fecha": "2023-11-25",
+    "precio_litro": 387.35,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0485",
+    "fecha": "2023-11-25",
+    "precio_litro": 401.6,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0486",
+    "fecha": "2023-11-26",
+    "precio_litro": 364.2,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0487",
+    "fecha": "2023-11-26",
+    "precio_litro": 376.05,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0488",
+    "fecha": "2023-11-26",
+    "precio_litro": 388.42,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0489",
+    "fecha": "2023-11-27",
+    "precio_litro": 402.43,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0490",
+    "fecha": "2023-11-27",
+    "precio_litro": 431.41,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0491",
+    "fecha": "2023-11-28",
+    "precio_litro": 414.37,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0492",
+    "fecha": "2023-11-28",
+    "precio_litro": 412.38,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0493",
+    "fecha": "2023-11-28",
+    "precio_litro": 381.26,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0494",
+    "fecha": "2023-11-29",
+    "precio_litro": 378.18,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0495",
+    "fecha": "2023-11-29",
+    "precio_litro": 385.78,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0496",
+    "fecha": "2023-11-29",
+    "precio_litro": 402.54,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0497",
+    "fecha": "2023-11-30",
+    "precio_litro": 411.94,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0498",
+    "fecha": "2023-11-30",
+    "precio_litro": 419.45,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0499",
+    "fecha": "2023-11-30",
+    "precio_litro": 415.41,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0500",
+    "fecha": "2023-12-01",
+    "precio_litro": 391.47,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0501",
+    "fecha": "2023-12-01",
+    "precio_litro": 393.78,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0502",
+    "fecha": "2023-12-02",
+    "precio_litro": 448.9,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0503",
+    "fecha": "2023-12-02",
+    "precio_litro": 396.26,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0504",
+    "fecha": "2023-12-02",
+    "precio_litro": 389.96,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0505",
+    "fecha": "2023-12-03",
+    "precio_litro": 365.08,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0506",
+    "fecha": "2023-12-03",
+    "precio_litro": 406.59,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0507",
+    "fecha": "2023-12-03",
+    "precio_litro": 414.94,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0508",
+    "fecha": "2023-12-04",
+    "precio_litro": 390.95,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0509",
+    "fecha": "2023-12-04",
+    "precio_litro": 427.77,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0510",
+    "fecha": "2023-12-04",
+    "precio_litro": 415.31,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0511",
+    "fecha": "2023-12-05",
+    "precio_litro": 419.45,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0512",
+    "fecha": "2023-12-05",
+    "precio_litro": 395.34,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0513",
+    "fecha": "2023-12-06",
+    "precio_litro": 408.18,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0514",
+    "fecha": "2023-12-06",
+    "precio_litro": 399.88,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0515",
+    "fecha": "2023-12-06",
+    "precio_litro": 398.5,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0516",
+    "fecha": "2023-12-07",
+    "precio_litro": 399.9,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0517",
+    "fecha": "2023-12-07",
+    "precio_litro": 418.72,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0518",
+    "fecha": "2023-12-07",
+    "precio_litro": 387.29,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0519",
+    "fecha": "2023-12-08",
+    "precio_litro": 411.86,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0520",
+    "fecha": "2023-12-08",
+    "precio_litro": 400.34,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0521",
+    "fecha": "2023-12-08",
+    "precio_litro": 396.11,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0522",
+    "fecha": "2023-12-09",
+    "precio_litro": 416.95,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0523",
+    "fecha": "2023-12-09",
+    "precio_litro": 382.7,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0524",
+    "fecha": "2023-12-10",
+    "precio_litro": 403.29,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0525",
+    "fecha": "2023-12-10",
+    "precio_litro": 407.39,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0526",
+    "fecha": "2023-12-10",
+    "precio_litro": 425.35,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0527",
+    "fecha": "2023-12-11",
+    "precio_litro": 384.66,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0528",
+    "fecha": "2023-12-11",
+    "precio_litro": 408.07,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0529",
+    "fecha": "2023-12-11",
+    "precio_litro": 391.31,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0530",
+    "fecha": "2023-12-12",
+    "precio_litro": 414.06,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0531",
+    "fecha": "2023-12-12",
+    "precio_litro": 424.76,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0532",
+    "fecha": "2023-12-13",
+    "precio_litro": 398.69,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0533",
+    "fecha": "2023-12-13",
+    "precio_litro": 413.68,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0534",
+    "fecha": "2023-12-13",
+    "precio_litro": 389.84,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0535",
+    "fecha": "2023-12-14",
+    "precio_litro": 420.18,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0536",
+    "fecha": "2023-12-14",
+    "precio_litro": 392.27,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0537",
+    "fecha": "2023-12-14",
+    "precio_litro": 422.03,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0538",
+    "fecha": "2023-12-15",
+    "precio_litro": 394.3,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0539",
+    "fecha": "2023-12-15",
+    "precio_litro": 417.69,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0540",
+    "fecha": "2023-12-15",
+    "precio_litro": 397.97,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0541",
+    "fecha": "2023-12-16",
+    "precio_litro": 391.03,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0542",
+    "fecha": "2023-12-16",
+    "precio_litro": 404.72,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0543",
+    "fecha": "2023-12-17",
+    "precio_litro": 416.44,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0544",
+    "fecha": "2023-12-17",
+    "precio_litro": 400.14,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0545",
+    "fecha": "2023-12-17",
+    "precio_litro": 380.1,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0546",
+    "fecha": "2023-12-18",
+    "precio_litro": 400.36,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0547",
+    "fecha": "2023-12-18",
+    "precio_litro": 403.68,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0548",
+    "fecha": "2023-12-18",
+    "precio_litro": 423.59,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0549",
+    "fecha": "2023-12-19",
+    "precio_litro": 380.59,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0550",
+    "fecha": "2023-12-19",
+    "precio_litro": 404.79,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0551",
+    "fecha": "2023-12-19",
+    "precio_litro": 423.77,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0552",
+    "fecha": "2023-12-20",
+    "precio_litro": 408.91,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0553",
+    "fecha": "2023-12-20",
+    "precio_litro": 416.39,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0554",
+    "fecha": "2023-12-21",
+    "precio_litro": 414.29,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0555",
+    "fecha": "2023-12-21",
+    "precio_litro": 436.16,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0556",
+    "fecha": "2023-12-21",
+    "precio_litro": 431.28,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0557",
+    "fecha": "2023-12-22",
+    "precio_litro": 409.06,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0558",
+    "fecha": "2023-12-22",
+    "precio_litro": 424.93,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0559",
+    "fecha": "2023-12-22",
+    "precio_litro": 390.08,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0560",
+    "fecha": "2023-12-23",
+    "precio_litro": 413.5,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0561",
+    "fecha": "2023-12-23",
+    "precio_litro": 445.08,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0562",
+    "fecha": "2023-12-23",
+    "precio_litro": 412.78,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0563",
+    "fecha": "2023-12-24",
+    "precio_litro": 421.46,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0564",
+    "fecha": "2023-12-24",
+    "precio_litro": 418.15,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0565",
+    "fecha": "2023-12-25",
+    "precio_litro": 434.9,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0566",
+    "fecha": "2023-12-25",
+    "precio_litro": 393.0,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0567",
+    "fecha": "2023-12-25",
+    "precio_litro": 381.09,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0568",
+    "fecha": "2023-12-26",
+    "precio_litro": 428.91,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0569",
+    "fecha": "2023-12-26",
+    "precio_litro": 411.32,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0570",
+    "fecha": "2023-12-26",
+    "precio_litro": 402.19,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0571",
+    "fecha": "2023-12-27",
+    "precio_litro": 404.87,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0572",
+    "fecha": "2023-12-27",
+    "precio_litro": 420.43,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0573",
+    "fecha": "2023-12-27",
+    "precio_litro": 419.22,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0574",
+    "fecha": "2023-12-28",
+    "precio_litro": 421.75,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0575",
+    "fecha": "2023-12-28",
+    "precio_litro": 430.99,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0576",
+    "fecha": "2023-12-29",
+    "precio_litro": 398.18,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0577",
+    "fecha": "2023-12-29",
+    "precio_litro": 407.53,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0578",
+    "fecha": "2023-12-29",
+    "precio_litro": 395.22,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0579",
+    "fecha": "2023-12-30",
+    "precio_litro": 416.64,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0580",
+    "fecha": "2023-12-30",
+    "precio_litro": 398.26,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0581",
+    "fecha": "2023-12-30",
+    "precio_litro": 393.77,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0582",
+    "fecha": "2023-12-31",
+    "precio_litro": 411.28,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0583",
+    "fecha": "2023-12-31",
+    "precio_litro": 407.73,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0584",
+    "fecha": "2024-01-01",
+    "precio_litro": 407.44,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0585",
+    "fecha": "2024-01-01",
+    "precio_litro": 415.51,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0586",
+    "fecha": "2024-01-01",
+    "precio_litro": 385.4,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0587",
+    "fecha": "2024-01-02",
+    "precio_litro": 410.24,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0588",
+    "fecha": "2024-01-02",
+    "precio_litro": 412.42,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0589",
+    "fecha": "2024-01-02",
+    "precio_litro": 394.09,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0590",
+    "fecha": "2024-01-03",
+    "precio_litro": 421.01,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0591",
+    "fecha": "2024-01-03",
+    "precio_litro": 446.31,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0592",
+    "fecha": "2024-01-03",
+    "precio_litro": 412.53,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0593",
+    "fecha": "2024-01-04",
+    "precio_litro": 406.6,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0594",
+    "fecha": "2024-01-04",
+    "precio_litro": 422.16,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0595",
+    "fecha": "2024-01-05",
+    "precio_litro": 406.91,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0596",
+    "fecha": "2024-01-05",
+    "precio_litro": 403.85,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0597",
+    "fecha": "2024-01-05",
+    "precio_litro": 411.81,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0598",
+    "fecha": "2024-01-06",
+    "precio_litro": 389.41,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0599",
+    "fecha": "2024-01-06",
+    "precio_litro": 401.89,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0600",
+    "fecha": "2024-01-06",
+    "precio_litro": 436.09,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0601",
+    "fecha": "2024-01-07",
+    "precio_litro": 406.97,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0602",
+    "fecha": "2024-01-07",
+    "precio_litro": 410.75,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0603",
+    "fecha": "2024-01-07",
+    "precio_litro": 409.86,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0604",
+    "fecha": "2024-01-08",
+    "precio_litro": 405.11,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0605",
+    "fecha": "2024-01-08",
+    "precio_litro": 409.94,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0606",
+    "fecha": "2024-01-09",
+    "precio_litro": 439.2,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0607",
+    "fecha": "2024-01-09",
+    "precio_litro": 413.6,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0608",
+    "fecha": "2024-01-09",
+    "precio_litro": 411.96,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0609",
+    "fecha": "2024-01-10",
+    "precio_litro": 416.43,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0610",
+    "fecha": "2024-01-10",
+    "precio_litro": 416.99,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0611",
+    "fecha": "2024-01-10",
+    "precio_litro": 436.74,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0612",
+    "fecha": "2024-01-11",
+    "precio_litro": 396.55,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0613",
+    "fecha": "2024-01-11",
+    "precio_litro": 454.22,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0614",
+    "fecha": "2024-01-11",
+    "precio_litro": 422.66,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0615",
+    "fecha": "2024-01-12",
+    "precio_litro": 430.51,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0616",
+    "fecha": "2024-01-12",
+    "precio_litro": 400.58,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0617",
+    "fecha": "2024-01-13",
+    "precio_litro": 415.45,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0618",
+    "fecha": "2024-01-13",
+    "precio_litro": 446.11,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0619",
+    "fecha": "2024-01-13",
+    "precio_litro": 415.52,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0620",
+    "fecha": "2024-01-14",
+    "precio_litro": 436.57,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0621",
+    "fecha": "2024-01-14",
+    "precio_litro": 424.72,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0622",
+    "fecha": "2024-01-14",
+    "precio_litro": 384.52,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0623",
+    "fecha": "2024-01-15",
+    "precio_litro": 468.44,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0624",
+    "fecha": "2024-01-15",
+    "precio_litro": 409.6,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0625",
+    "fecha": "2024-01-15",
+    "precio_litro": 405.89,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0626",
+    "fecha": "2024-01-16",
+    "precio_litro": 414.01,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0627",
+    "fecha": "2024-01-16",
+    "precio_litro": 420.67,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0628",
+    "fecha": "2024-01-17",
+    "precio_litro": 415.9,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0629",
+    "fecha": "2024-01-17",
+    "precio_litro": 433.87,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0630",
+    "fecha": "2024-01-17",
+    "precio_litro": 431.26,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0631",
+    "fecha": "2024-01-18",
+    "precio_litro": 422.15,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0632",
+    "fecha": "2024-01-18",
+    "precio_litro": 428.14,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0633",
+    "fecha": "2024-01-18",
+    "precio_litro": 420.62,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0634",
+    "fecha": "2024-01-19",
+    "precio_litro": 409.04,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0635",
+    "fecha": "2024-01-19",
+    "precio_litro": 402.81,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0636",
+    "fecha": "2024-01-20",
+    "precio_litro": 396.18,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0637",
+    "fecha": "2024-01-20",
+    "precio_litro": 406.17,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0638",
+    "fecha": "2024-01-20",
+    "precio_litro": 412.9,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0639",
+    "fecha": "2024-01-21",
+    "precio_litro": 418.97,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0640",
+    "fecha": "2024-01-21",
+    "precio_litro": 391.68,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0641",
+    "fecha": "2024-01-21",
+    "precio_litro": 418.12,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0642",
+    "fecha": "2024-01-22",
+    "precio_litro": 398.48,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0643",
+    "fecha": "2024-01-22",
+    "precio_litro": 438.44,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0644",
+    "fecha": "2024-01-22",
+    "precio_litro": 396.88,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0645",
+    "fecha": "2024-01-23",
+    "precio_litro": 401.43,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0646",
+    "fecha": "2024-01-23",
+    "precio_litro": 429.88,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0647",
+    "fecha": "2024-01-24",
+    "precio_litro": 419.47,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0648",
+    "fecha": "2024-01-24",
+    "precio_litro": 407.61,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0649",
+    "fecha": "2024-01-24",
+    "precio_litro": 431.34,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0650",
+    "fecha": "2024-01-25",
+    "precio_litro": 421.36,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0651",
+    "fecha": "2024-01-25",
+    "precio_litro": 410.79,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0652",
+    "fecha": "2024-01-25",
+    "precio_litro": 411.79,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0653",
+    "fecha": "2024-01-26",
+    "precio_litro": 396.83,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0654",
+    "fecha": "2024-01-26",
+    "precio_litro": 405.14,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0655",
+    "fecha": "2024-01-26",
+    "precio_litro": 436.76,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0656",
+    "fecha": "2024-01-27",
+    "precio_litro": 432.37,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0657",
+    "fecha": "2024-01-27",
+    "precio_litro": 428.1,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0658",
+    "fecha": "2024-01-28",
+    "precio_litro": 423.74,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0659",
+    "fecha": "2024-01-28",
+    "precio_litro": 401.76,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0660",
+    "fecha": "2024-01-28",
+    "precio_litro": 396.06,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0661",
+    "fecha": "2024-01-29",
+    "precio_litro": 437.42,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0662",
+    "fecha": "2024-01-29",
+    "precio_litro": 401.23,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0663",
+    "fecha": "2024-01-29",
+    "precio_litro": 432.36,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0664",
+    "fecha": "2024-01-30",
+    "precio_litro": 436.22,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0665",
+    "fecha": "2024-01-30",
+    "precio_litro": 397.59,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0666",
+    "fecha": "2024-01-30",
+    "precio_litro": 428.78,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0667",
+    "fecha": "2024-01-31",
+    "precio_litro": 426.03,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0668",
+    "fecha": "2024-01-31",
+    "precio_litro": 415.97,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0669",
+    "fecha": "2024-02-01",
+    "precio_litro": 390.24,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0670",
+    "fecha": "2024-02-01",
+    "precio_litro": 423.26,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0671",
+    "fecha": "2024-02-01",
+    "precio_litro": 401.68,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0672",
+    "fecha": "2024-02-02",
+    "precio_litro": 428.58,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0673",
+    "fecha": "2024-02-02",
+    "precio_litro": 441.22,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0674",
+    "fecha": "2024-02-02",
+    "precio_litro": 415.51,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0675",
+    "fecha": "2024-02-03",
+    "precio_litro": 416.86,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0676",
+    "fecha": "2024-02-03",
+    "precio_litro": 414.69,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0677",
+    "fecha": "2024-02-03",
+    "precio_litro": 414.75,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0678",
+    "fecha": "2024-02-04",
+    "precio_litro": 398.97,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0679",
+    "fecha": "2024-02-04",
+    "precio_litro": 440.93,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0680",
+    "fecha": "2024-02-05",
+    "precio_litro": 420.46,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0681",
+    "fecha": "2024-02-05",
+    "precio_litro": 421.82,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0682",
+    "fecha": "2024-02-05",
+    "precio_litro": 420.46,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0683",
+    "fecha": "2024-02-06",
+    "precio_litro": 407.75,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0684",
+    "fecha": "2024-02-06",
+    "precio_litro": 432.21,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0685",
+    "fecha": "2024-02-06",
+    "precio_litro": 437.29,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0686",
+    "fecha": "2024-02-07",
+    "precio_litro": 423.4,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0687",
+    "fecha": "2024-02-07",
+    "precio_litro": 398.74,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0688",
+    "fecha": "2024-02-08",
+    "precio_litro": 395.34,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0689",
+    "fecha": "2024-02-08",
+    "precio_litro": 418.23,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0690",
+    "fecha": "2024-02-08",
+    "precio_litro": 391.94,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0691",
+    "fecha": "2024-02-09",
+    "precio_litro": 422.69,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0692",
+    "fecha": "2024-02-09",
+    "precio_litro": 435.98,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0693",
+    "fecha": "2024-02-09",
+    "precio_litro": 414.75,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0694",
+    "fecha": "2024-02-10",
+    "precio_litro": 405.33,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0695",
+    "fecha": "2024-02-10",
+    "precio_litro": 429.74,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0696",
+    "fecha": "2024-02-10",
+    "precio_litro": 432.91,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0697",
+    "fecha": "2024-02-11",
+    "precio_litro": 435.16,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0698",
+    "fecha": "2024-02-11",
+    "precio_litro": 426.38,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0699",
+    "fecha": "2024-02-12",
+    "precio_litro": 443.72,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0700",
+    "fecha": "2024-02-12",
+    "precio_litro": 429.46,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0701",
+    "fecha": "2024-02-12",
+    "precio_litro": 424.85,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0702",
+    "fecha": "2024-02-13",
+    "precio_litro": 423.74,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0703",
+    "fecha": "2024-02-13",
+    "precio_litro": 422.69,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0704",
+    "fecha": "2024-02-13",
+    "precio_litro": 419.22,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0705",
+    "fecha": "2024-02-14",
+    "precio_litro": 407.53,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0706",
+    "fecha": "2024-02-14",
+    "precio_litro": 420.31,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0707",
+    "fecha": "2024-02-14",
+    "precio_litro": 413.78,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0708",
+    "fecha": "2024-02-15",
+    "precio_litro": 421.37,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0709",
+    "fecha": "2024-02-15",
+    "precio_litro": 411.02,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0710",
+    "fecha": "2024-02-16",
+    "precio_litro": 457.17,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0711",
+    "fecha": "2024-02-16",
+    "precio_litro": 446.64,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0712",
+    "fecha": "2024-02-16",
+    "precio_litro": 429.97,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0713",
+    "fecha": "2024-02-17",
+    "precio_litro": 424.44,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0714",
+    "fecha": "2024-02-17",
+    "precio_litro": 421.71,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0715",
+    "fecha": "2024-02-17",
+    "precio_litro": 431.15,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0716",
+    "fecha": "2024-02-18",
+    "precio_litro": 428.73,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0717",
+    "fecha": "2024-02-18",
+    "precio_litro": 392.06,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0718",
+    "fecha": "2024-02-18",
+    "precio_litro": 416.02,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0719",
+    "fecha": "2024-02-19",
+    "precio_litro": 419.94,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0720",
+    "fecha": "2024-02-19",
+    "precio_litro": 404.29,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0721",
+    "fecha": "2024-02-20",
+    "precio_litro": 410.9,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0722",
+    "fecha": "2024-02-20",
+    "precio_litro": 426.52,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0723",
+    "fecha": "2024-02-20",
+    "precio_litro": 440.9,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0724",
+    "fecha": "2024-02-21",
+    "precio_litro": 398.84,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0725",
+    "fecha": "2024-02-21",
+    "precio_litro": 432.62,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0726",
+    "fecha": "2024-02-21",
+    "precio_litro": 428.17,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0727",
+    "fecha": "2024-02-22",
+    "precio_litro": 442.76,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0728",
+    "fecha": "2024-02-22",
+    "precio_litro": 422.76,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0729",
+    "fecha": "2024-02-22",
+    "precio_litro": 399.39,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0730",
+    "fecha": "2024-02-23",
+    "precio_litro": 439.95,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0731",
+    "fecha": "2024-02-23",
+    "precio_litro": 435.23,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0732",
+    "fecha": "2024-02-24",
+    "precio_litro": 403.39,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0733",
+    "fecha": "2024-02-24",
+    "precio_litro": 420.06,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0734",
+    "fecha": "2024-02-24",
+    "precio_litro": 414.25,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0735",
+    "fecha": "2024-02-25",
+    "precio_litro": 449.4,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0736",
+    "fecha": "2024-02-25",
+    "precio_litro": 408.03,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0737",
+    "fecha": "2024-02-25",
+    "precio_litro": 460.97,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0738",
+    "fecha": "2024-02-26",
+    "precio_litro": 392.8,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0739",
+    "fecha": "2024-02-26",
+    "precio_litro": 399.39,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0740",
+    "fecha": "2024-02-27",
+    "precio_litro": 426.95,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0741",
+    "fecha": "2024-02-27",
+    "precio_litro": 412.57,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0742",
+    "fecha": "2024-02-27",
+    "precio_litro": 440.2,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0743",
+    "fecha": "2024-02-28",
+    "precio_litro": 412.15,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0744",
+    "fecha": "2024-02-28",
+    "precio_litro": 421.73,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0745",
+    "fecha": "2024-02-28",
+    "precio_litro": 440.5,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0746",
+    "fecha": "2024-02-29",
+    "precio_litro": 445.26,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0747",
+    "fecha": "2024-02-29",
+    "precio_litro": 380.72,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0748",
+    "fecha": "2024-02-29",
+    "precio_litro": 425.56,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0749",
+    "fecha": "2024-03-01",
+    "precio_litro": 413.06,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0750",
+    "fecha": "2024-03-01",
+    "precio_litro": 435.32,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0751",
+    "fecha": "2024-03-02",
+    "precio_litro": 442.85,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0752",
+    "fecha": "2024-03-02",
+    "precio_litro": 419.05,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0753",
+    "fecha": "2024-03-02",
+    "precio_litro": 458.38,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0754",
+    "fecha": "2024-03-03",
+    "precio_litro": 410.8,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0755",
+    "fecha": "2024-03-03",
+    "precio_litro": 410.34,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0756",
+    "fecha": "2024-03-03",
+    "precio_litro": 440.43,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0757",
+    "fecha": "2024-03-04",
+    "precio_litro": 457.81,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0758",
+    "fecha": "2024-03-04",
+    "precio_litro": 442.08,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0759",
+    "fecha": "2024-03-04",
+    "precio_litro": 450.3,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0760",
+    "fecha": "2024-03-05",
+    "precio_litro": 395.72,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0761",
+    "fecha": "2024-03-05",
+    "precio_litro": 437.9,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0762",
+    "fecha": "2024-03-06",
+    "precio_litro": 400.09,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0763",
+    "fecha": "2024-03-06",
+    "precio_litro": 422.27,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0764",
+    "fecha": "2024-03-06",
+    "precio_litro": 436.88,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0765",
+    "fecha": "2024-03-07",
+    "precio_litro": 450.63,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0766",
+    "fecha": "2024-03-07",
+    "precio_litro": 410.03,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0767",
+    "fecha": "2024-03-07",
+    "precio_litro": 411.17,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0768",
+    "fecha": "2024-03-08",
+    "precio_litro": 426.09,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0769",
+    "fecha": "2024-03-08",
+    "precio_litro": 446.47,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0770",
+    "fecha": "2024-03-08",
+    "precio_litro": 417.69,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0771",
+    "fecha": "2024-03-09",
+    "precio_litro": 447.66,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0772",
+    "fecha": "2024-03-09",
+    "precio_litro": 420.67,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0773",
+    "fecha": "2024-03-10",
+    "precio_litro": 422.61,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0774",
+    "fecha": "2024-03-10",
+    "precio_litro": 436.16,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0775",
+    "fecha": "2024-03-10",
+    "precio_litro": 447.25,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0776",
+    "fecha": "2024-03-11",
+    "precio_litro": 427.76,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0777",
+    "fecha": "2024-03-11",
+    "precio_litro": 407.04,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0778",
+    "fecha": "2024-03-11",
+    "precio_litro": 428.8,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0779",
+    "fecha": "2024-03-12",
+    "precio_litro": 419.19,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0780",
+    "fecha": "2024-03-12",
+    "precio_litro": 457.17,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0781",
+    "fecha": "2024-03-12",
+    "precio_litro": 456.23,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0782",
+    "fecha": "2024-03-13",
+    "precio_litro": 447.02,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0783",
+    "fecha": "2024-03-13",
+    "precio_litro": 436.98,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0784",
+    "fecha": "2024-03-14",
+    "precio_litro": 416.15,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0785",
+    "fecha": "2024-03-14",
+    "precio_litro": 447.0,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0786",
+    "fecha": "2024-03-14",
+    "precio_litro": 426.1,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0787",
+    "fecha": "2024-03-15",
+    "precio_litro": 433.69,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0788",
+    "fecha": "2024-03-15",
+    "precio_litro": 432.26,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0789",
+    "fecha": "2024-03-15",
+    "precio_litro": 403.45,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0790",
+    "fecha": "2024-03-16",
+    "precio_litro": 429.91,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0791",
+    "fecha": "2024-03-16",
+    "precio_litro": 426.12,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0792",
+    "fecha": "2024-03-17",
+    "precio_litro": 422.68,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0793",
+    "fecha": "2024-03-17",
+    "precio_litro": 450.13,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0794",
+    "fecha": "2024-03-17",
+    "precio_litro": 438.38,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0795",
+    "fecha": "2024-03-18",
+    "precio_litro": 415.21,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0796",
+    "fecha": "2024-03-18",
+    "precio_litro": 415.83,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0797",
+    "fecha": "2024-03-18",
+    "precio_litro": 444.25,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0798",
+    "fecha": "2024-03-19",
+    "precio_litro": 404.5,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0799",
+    "fecha": "2024-03-19",
+    "precio_litro": 438.42,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0800",
+    "fecha": "2024-03-19",
+    "precio_litro": 434.54,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0801",
+    "fecha": "2024-03-20",
+    "precio_litro": 415.72,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0802",
+    "fecha": "2024-03-20",
+    "precio_litro": 450.47,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0803",
+    "fecha": "2024-03-21",
+    "precio_litro": 430.49,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0804",
+    "fecha": "2024-03-21",
+    "precio_litro": 459.64,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0805",
+    "fecha": "2024-03-21",
+    "precio_litro": 412.96,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0806",
+    "fecha": "2024-03-22",
+    "precio_litro": 381.41,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0807",
+    "fecha": "2024-03-22",
+    "precio_litro": 430.22,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0808",
+    "fecha": "2024-03-22",
+    "precio_litro": 435.49,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0809",
+    "fecha": "2024-03-23",
+    "precio_litro": 425.69,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0810",
+    "fecha": "2024-03-23",
+    "precio_litro": 424.05,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0811",
+    "fecha": "2024-03-23",
+    "precio_litro": 422.55,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0812",
+    "fecha": "2024-03-24",
+    "precio_litro": 418.58,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0813",
+    "fecha": "2024-03-24",
+    "precio_litro": 453.06,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0814",
+    "fecha": "2024-03-25",
+    "precio_litro": 469.44,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0815",
+    "fecha": "2024-03-25",
+    "precio_litro": 446.18,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0816",
+    "fecha": "2024-03-25",
+    "precio_litro": 424.4,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0817",
+    "fecha": "2024-03-26",
+    "precio_litro": 460.8,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0818",
+    "fecha": "2024-03-26",
+    "precio_litro": 434.74,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0819",
+    "fecha": "2024-03-26",
+    "precio_litro": 430.23,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0820",
+    "fecha": "2024-03-27",
+    "precio_litro": 452.28,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0821",
+    "fecha": "2024-03-27",
+    "precio_litro": 433.96,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0822",
+    "fecha": "2024-03-27",
+    "precio_litro": 418.84,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0823",
+    "fecha": "2024-03-28",
+    "precio_litro": 432.98,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0824",
+    "fecha": "2024-03-28",
+    "precio_litro": 451.56,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0825",
+    "fecha": "2024-03-29",
+    "precio_litro": 428.38,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0826",
+    "fecha": "2024-03-29",
+    "precio_litro": 423.98,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0827",
+    "fecha": "2024-03-29",
+    "precio_litro": 437.13,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0828",
+    "fecha": "2024-03-30",
+    "precio_litro": 449.59,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0829",
+    "fecha": "2024-03-30",
+    "precio_litro": 427.7,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0830",
+    "fecha": "2024-03-30",
+    "precio_litro": 453.06,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0831",
+    "fecha": "2024-03-31",
+    "precio_litro": 442.91,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0832",
+    "fecha": "2024-03-31",
+    "precio_litro": 435.38,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0833",
+    "fecha": "2024-03-31",
+    "precio_litro": 434.21,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0834",
+    "fecha": "2024-04-01",
+    "precio_litro": 411.2,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0835",
+    "fecha": "2024-04-01",
+    "precio_litro": 446.87,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0836",
+    "fecha": "2024-04-02",
+    "precio_litro": 434.46,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0837",
+    "fecha": "2024-04-02",
+    "precio_litro": 440.85,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0838",
+    "fecha": "2024-04-02",
+    "precio_litro": 452.35,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0839",
+    "fecha": "2024-04-03",
+    "precio_litro": 415.28,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0840",
+    "fecha": "2024-04-03",
+    "precio_litro": 480.64,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0841",
+    "fecha": "2024-04-03",
+    "precio_litro": 435.02,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0842",
+    "fecha": "2024-04-04",
+    "precio_litro": 420.21,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0843",
+    "fecha": "2024-04-04",
+    "precio_litro": 432.08,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0844",
+    "fecha": "2024-04-05",
+    "precio_litro": 416.28,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0845",
+    "fecha": "2024-04-05",
+    "precio_litro": 411.72,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0846",
+    "fecha": "2024-04-05",
+    "precio_litro": 465.18,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0847",
+    "fecha": "2024-04-06",
+    "precio_litro": 432.29,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0848",
+    "fecha": "2024-04-06",
+    "precio_litro": 459.15,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0849",
+    "fecha": "2024-04-06",
+    "precio_litro": 449.37,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0850",
+    "fecha": "2024-04-07",
+    "precio_litro": 447.42,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0851",
+    "fecha": "2024-04-07",
+    "precio_litro": 490.42,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0852",
+    "fecha": "2024-04-07",
+    "precio_litro": 445.6,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0853",
+    "fecha": "2024-04-08",
+    "precio_litro": 468.52,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0854",
+    "fecha": "2024-04-08",
+    "precio_litro": 441.31,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0855",
+    "fecha": "2024-04-09",
+    "precio_litro": 431.53,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0856",
+    "fecha": "2024-04-09",
+    "precio_litro": 408.6,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0857",
+    "fecha": "2024-04-09",
+    "precio_litro": 470.92,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0858",
+    "fecha": "2024-04-10",
+    "precio_litro": 404.15,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0859",
+    "fecha": "2024-04-10",
+    "precio_litro": 433.71,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0860",
+    "fecha": "2024-04-10",
+    "precio_litro": 432.64,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0861",
+    "fecha": "2024-04-11",
+    "precio_litro": 410.11,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0862",
+    "fecha": "2024-04-11",
+    "precio_litro": 452.18,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0863",
+    "fecha": "2024-04-11",
+    "precio_litro": 445.39,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0864",
+    "fecha": "2024-04-12",
+    "precio_litro": 442.03,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0865",
+    "fecha": "2024-04-12",
+    "precio_litro": 420.28,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0866",
+    "fecha": "2024-04-13",
+    "precio_litro": 440.83,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0867",
+    "fecha": "2024-04-13",
+    "precio_litro": 443.73,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0868",
+    "fecha": "2024-04-13",
+    "precio_litro": 444.7,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0869",
+    "fecha": "2024-04-14",
+    "precio_litro": 452.38,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0870",
+    "fecha": "2024-04-14",
+    "precio_litro": 426.22,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0871",
+    "fecha": "2024-04-14",
+    "precio_litro": 460.83,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0872",
+    "fecha": "2024-04-15",
+    "precio_litro": 434.5,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0873",
+    "fecha": "2024-04-15",
+    "precio_litro": 444.31,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0874",
+    "fecha": "2024-04-15",
+    "precio_litro": 444.5,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0875",
+    "fecha": "2024-04-16",
+    "precio_litro": 408.04,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0876",
+    "fecha": "2024-04-16",
+    "precio_litro": 455.56,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0877",
+    "fecha": "2024-04-17",
+    "precio_litro": 434.52,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0878",
+    "fecha": "2024-04-17",
+    "precio_litro": 467.73,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0879",
+    "fecha": "2024-04-17",
+    "precio_litro": 447.31,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0880",
+    "fecha": "2024-04-18",
+    "precio_litro": 425.77,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0881",
+    "fecha": "2024-04-18",
+    "precio_litro": 446.14,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0882",
+    "fecha": "2024-04-18",
+    "precio_litro": 446.22,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0883",
+    "fecha": "2024-04-19",
+    "precio_litro": 463.11,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0884",
+    "fecha": "2024-04-19",
+    "precio_litro": 448.98,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0885",
+    "fecha": "2024-04-19",
+    "precio_litro": 426.11,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0886",
+    "fecha": "2024-04-20",
+    "precio_litro": 429.91,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0887",
+    "fecha": "2024-04-20",
+    "precio_litro": 445.6,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0888",
+    "fecha": "2024-04-21",
+    "precio_litro": 460.05,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0889",
+    "fecha": "2024-04-21",
+    "precio_litro": 454.63,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0890",
+    "fecha": "2024-04-21",
+    "precio_litro": 458.68,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0891",
+    "fecha": "2024-04-22",
+    "precio_litro": 466.87,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0892",
+    "fecha": "2024-04-22",
+    "precio_litro": 432.03,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0893",
+    "fecha": "2024-04-22",
+    "precio_litro": 433.67,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0894",
+    "fecha": "2024-04-23",
+    "precio_litro": 451.03,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0895",
+    "fecha": "2024-04-23",
+    "precio_litro": 424.98,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0896",
+    "fecha": "2024-04-24",
+    "precio_litro": 465.82,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0897",
+    "fecha": "2024-04-24",
+    "precio_litro": 440.14,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0898",
+    "fecha": "2024-04-24",
+    "precio_litro": 471.54,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0899",
+    "fecha": "2024-04-25",
+    "precio_litro": 440.08,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0900",
+    "fecha": "2024-04-25",
+    "precio_litro": 427.91,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0901",
+    "fecha": "2024-04-25",
+    "precio_litro": 457.81,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0902",
+    "fecha": "2024-04-26",
+    "precio_litro": 451.68,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0903",
+    "fecha": "2024-04-26",
+    "precio_litro": 437.11,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0904",
+    "fecha": "2024-04-26",
+    "precio_litro": 437.27,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0905",
+    "fecha": "2024-04-27",
+    "precio_litro": 429.82,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0906",
+    "fecha": "2024-04-27",
+    "precio_litro": 425.2,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0907",
+    "fecha": "2024-04-28",
+    "precio_litro": 455.34,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0908",
+    "fecha": "2024-04-28",
+    "precio_litro": 432.5,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0909",
+    "fecha": "2024-04-28",
+    "precio_litro": 437.25,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0910",
+    "fecha": "2024-04-29",
+    "precio_litro": 420.78,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0911",
+    "fecha": "2024-04-29",
+    "precio_litro": 453.46,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0912",
+    "fecha": "2024-04-29",
+    "precio_litro": 432.34,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0913",
+    "fecha": "2024-04-30",
+    "precio_litro": 466.43,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0914",
+    "fecha": "2024-04-30",
+    "precio_litro": 472.84,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0915",
+    "fecha": "2024-04-30",
+    "precio_litro": 412.29,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0916",
+    "fecha": "2024-05-01",
+    "precio_litro": 447.11,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0917",
+    "fecha": "2024-05-01",
+    "precio_litro": 474.82,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0918",
+    "fecha": "2024-05-02",
+    "precio_litro": 436.82,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0919",
+    "fecha": "2024-05-02",
+    "precio_litro": 434.33,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0920",
+    "fecha": "2024-05-02",
+    "precio_litro": 417.77,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0921",
+    "fecha": "2024-05-03",
+    "precio_litro": 439.18,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0922",
+    "fecha": "2024-05-03",
+    "precio_litro": 487.15,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0923",
+    "fecha": "2024-05-03",
+    "precio_litro": 454.94,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0924",
+    "fecha": "2024-05-04",
+    "precio_litro": 393.0,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0925",
+    "fecha": "2024-05-04",
+    "precio_litro": 443.36,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0926",
+    "fecha": "2024-05-04",
+    "precio_litro": 443.84,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0927",
+    "fecha": "2024-05-05",
+    "precio_litro": 445.24,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0928",
+    "fecha": "2024-05-05",
+    "precio_litro": 421.65,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0929",
+    "fecha": "2024-05-06",
+    "precio_litro": 439.47,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0930",
+    "fecha": "2024-05-06",
+    "precio_litro": 443.8,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0931",
+    "fecha": "2024-05-06",
+    "precio_litro": 444.43,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0932",
+    "fecha": "2024-05-07",
+    "precio_litro": 449.85,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0933",
+    "fecha": "2024-05-07",
+    "precio_litro": 430.4,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0934",
+    "fecha": "2024-05-07",
+    "precio_litro": 438.42,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0935",
+    "fecha": "2024-05-08",
+    "precio_litro": 448.76,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0936",
+    "fecha": "2024-05-08",
+    "precio_litro": 450.61,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0937",
+    "fecha": "2024-05-08",
+    "precio_litro": 474.33,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0938",
+    "fecha": "2024-05-09",
+    "precio_litro": 449.29,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0939",
+    "fecha": "2024-05-09",
+    "precio_litro": 448.8,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0940",
+    "fecha": "2024-05-10",
+    "precio_litro": 424.66,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0941",
+    "fecha": "2024-05-10",
+    "precio_litro": 409.36,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0942",
+    "fecha": "2024-05-10",
+    "precio_litro": 455.57,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0943",
+    "fecha": "2024-05-11",
+    "precio_litro": 458.79,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0944",
+    "fecha": "2024-05-11",
+    "precio_litro": 431.78,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0945",
+    "fecha": "2024-05-11",
+    "precio_litro": 453.83,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0946",
+    "fecha": "2024-05-12",
+    "precio_litro": 459.26,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0947",
+    "fecha": "2024-05-12",
+    "precio_litro": 463.14,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0948",
+    "fecha": "2024-05-13",
+    "precio_litro": 462.11,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0949",
+    "fecha": "2024-05-13",
+    "precio_litro": 445.16,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0950",
+    "fecha": "2024-05-13",
+    "precio_litro": 452.67,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0951",
+    "fecha": "2024-05-14",
+    "precio_litro": 435.44,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0952",
+    "fecha": "2024-05-14",
+    "precio_litro": 462.65,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0953",
+    "fecha": "2024-05-14",
+    "precio_litro": 457.51,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0954",
+    "fecha": "2024-05-15",
+    "precio_litro": 450.98,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0955",
+    "fecha": "2024-05-15",
+    "precio_litro": 422.75,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0956",
+    "fecha": "2024-05-15",
+    "precio_litro": 477.71,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0957",
+    "fecha": "2024-05-16",
+    "precio_litro": 455.51,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0958",
+    "fecha": "2024-05-16",
+    "precio_litro": 453.16,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0959",
+    "fecha": "2024-05-17",
+    "precio_litro": 444.95,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0960",
+    "fecha": "2024-05-17",
+    "precio_litro": 449.04,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0961",
+    "fecha": "2024-05-17",
+    "precio_litro": 436.84,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0962",
+    "fecha": "2024-05-18",
+    "precio_litro": 447.65,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0963",
+    "fecha": "2024-05-18",
+    "precio_litro": 449.19,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0964",
+    "fecha": "2024-05-18",
+    "precio_litro": 442.03,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0965",
+    "fecha": "2024-05-19",
+    "precio_litro": 426.16,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0966",
+    "fecha": "2024-05-19",
+    "precio_litro": 416.98,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0967",
+    "fecha": "2024-05-19",
+    "precio_litro": 480.96,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0968",
+    "fecha": "2024-05-20",
+    "precio_litro": 445.64,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0969",
+    "fecha": "2024-05-20",
+    "precio_litro": 452.31,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0970",
+    "fecha": "2024-05-21",
+    "precio_litro": 439.03,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0971",
+    "fecha": "2024-05-21",
+    "precio_litro": 455.76,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0972",
+    "fecha": "2024-05-21",
+    "precio_litro": 449.07,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0973",
+    "fecha": "2024-05-22",
+    "precio_litro": 460.54,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0974",
+    "fecha": "2024-05-22",
+    "precio_litro": 476.51,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0975",
+    "fecha": "2024-05-22",
+    "precio_litro": 448.11,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0976",
+    "fecha": "2024-05-23",
+    "precio_litro": 440.36,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0977",
+    "fecha": "2024-05-23",
+    "precio_litro": 450.31,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0978",
+    "fecha": "2024-05-23",
+    "precio_litro": 464.49,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0979",
+    "fecha": "2024-05-24",
+    "precio_litro": 450.51,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0980",
+    "fecha": "2024-05-24",
+    "precio_litro": 431.53,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0981",
+    "fecha": "2024-05-25",
+    "precio_litro": 490.91,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0982",
+    "fecha": "2024-05-25",
+    "precio_litro": 464.99,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0983",
+    "fecha": "2024-05-25",
+    "precio_litro": 474.92,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0984",
+    "fecha": "2024-05-26",
+    "precio_litro": 477.14,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0985",
+    "fecha": "2024-05-26",
+    "precio_litro": 451.95,
+    "ciudad": "Salta"
+  },
+  {
+    "registro_id": "PREC0986",
+    "fecha": "2024-05-26",
+    "precio_litro": 485.42,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0987",
+    "fecha": "2024-05-27",
+    "precio_litro": 433.01,
+    "ciudad": "Tucumán"
+  },
+  {
+    "registro_id": "PREC0988",
+    "fecha": "2024-05-27",
+    "precio_litro": 443.31,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0989",
+    "fecha": "2024-05-27",
+    "precio_litro": 482.99,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0990",
+    "fecha": "2024-05-28",
+    "precio_litro": 457.71,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0991",
+    "fecha": "2024-05-28",
+    "precio_litro": 456.32,
+    "ciudad": "Rosario"
+  },
+  {
+    "registro_id": "PREC0992",
+    "fecha": "2024-05-29",
+    "precio_litro": 448.06,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0993",
+    "fecha": "2024-05-29",
+    "precio_litro": 442.23,
+    "ciudad": "Córdoba"
+  },
+  {
+    "registro_id": "PREC0994",
+    "fecha": "2024-05-29",
+    "precio_litro": 442.2,
+    "ciudad": "Mendoza"
+  },
+  {
+    "registro_id": "PREC0995",
+    "fecha": "2024-05-30",
+    "precio_litro": 475.22,
+    "ciudad": "La Plata"
+  },
+  {
+    "registro_id": "PREC0996",
+    "fecha": "2024-05-30",
+    "precio_litro": 470.03,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0997",
+    "fecha": "2024-05-30",
+    "precio_litro": 479.67,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "registro_id": "PREC0998",
+    "fecha": "2024-05-31",
+    "precio_litro": 463.78,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC0999",
+    "fecha": "2024-05-31",
+    "precio_litro": 444.02,
+    "ciudad": "Neuquén"
+  },
+  {
+    "registro_id": "PREC1000",
+    "fecha": "2024-06-01",
+    "precio_litro": 458.05,
+    "ciudad": "Rosario"
+  }
+]
